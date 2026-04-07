@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Property Finder</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+        <header>
+            <div class="header-left">
+                <h1>Property Finder</h1>
+                <span class="subtitle">King's Cross · 2-3 bed · £575K–£700K · Freehold / Share of Freehold</span>
+            </div>
+            <div class="header-tabs" id="view-tabs">
+                <button class="tab active" data-view="listings">Listings <span class="tab-count" id="total-listings">–</span></button>
+                <button class="tab" data-view="map">Map</button>
+                <button class="tab" data-view="areas">Areas <span class="tab-count" id="total-areas">–</span></button>
+            </div>
+            <div class="header-right">
+                <div class="stat">
+                    <span class="stat-value" id="last-updated">–</span>
+                    <span class="stat-label">Updated</span>
+                </div>
+            </div>
+        </header>
+
+        <nav class="filters">
+            <div class="filter-group" id="region-filters"></div>
+            <div class="filter-group">
+                <select id="sort-by">
+                    <option value="score">Sort by Score</option>
+                    <option value="commute">Sort by Commute</option>
+                    <option value="price-asc">Price: Low to High</option>
+                    <option value="price-desc">Price: High to Low</option>
+                    <option value="value">Best Value (vs median)</option>
+                </select>
+                <button class="insane-btn" id="insane-mode">Insane Mode</button>
+            </div>
+        </nav>
+
+        <main id="content"></main>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
