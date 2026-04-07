@@ -8,7 +8,16 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div id="app">
+    <div id="auth-gate" style="display:flex;align-items:center;justify-content:center;height:100vh;font-family:-apple-system,BlinkMacSystemFont,'Inter',sans-serif;">
+        <form id="auth-form" style="text-align:center;">
+            <h2 style="font-size:18px;font-weight:600;margin-bottom:12px;">Property Finder</h2>
+            <input id="auth-input" type="password" placeholder="Password" autofocus
+                style="font-size:14px;padding:8px 14px;border:1px solid #dee2e6;border-radius:6px;width:200px;font-family:inherit;">
+            <button type="submit" style="font-size:14px;padding:8px 16px;margin-left:6px;border:none;border-radius:6px;background:#212529;color:white;cursor:pointer;font-family:inherit;">Go</button>
+            <p id="auth-error" style="color:#fa5252;font-size:13px;margin-top:8px;display:none;">Wrong password</p>
+        </form>
+    </div>
+    <div id="app" style="display:none;">
         <header>
             <div class="header-left">
                 <h1>Property Finder</h1>
@@ -44,7 +53,32 @@
         <main id="content"></main>
     </div>
 
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <script src="app.js"></script>
+    <script>
+    (function() {
+        var key = 'pf_auth';
+        if (sessionStorage.getItem(key) === 'ok') { unlock(); return; }
+        document.getElementById('auth-form').addEventListener('submit', function(e) {
+            e.preventDefault();
+            if (document.getElementById('auth-input').value === 'coton2026') {
+                sessionStorage.setItem(key, 'ok');
+                unlock();
+            } else {
+                document.getElementById('auth-error').style.display = 'block';
+            }
+        });
+        function unlock() {
+            document.getElementById('auth-gate').style.display = 'none';
+            document.getElementById('app').style.display = '';
+            var s1 = document.createElement('script');
+            s1.src = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';
+            s1.onload = function() {
+                var s2 = document.createElement('script');
+                s2.src = 'app.js';
+                document.body.appendChild(s2);
+            };
+            document.body.appendChild(s1);
+        }
+    })();
+    </script>
 </body>
 </html>
