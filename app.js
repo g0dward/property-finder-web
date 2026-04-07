@@ -570,24 +570,40 @@ function renderListings(listings) {
             const badges = [];
             if (listing.tenure) {
                 const tenureLabel = listing.tenure.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
-                badges.push(`<span class="badge badge-freehold">${tenureLabel}</span>`);
+                const tenureTip = listing.tenure.toLowerCase().includes('freehold')
+                    ? 'You own the building and land outright — no ground rent or lease expiry to worry about'
+                    : listing.tenure.toLowerCase().includes('share')
+                    ? 'You own a share of the freehold with other residents — more control than leasehold, no single landlord'
+                    : '';
+                badges.push(`<span class="badge badge-freehold badge-tip" data-tip="${tenureTip}">${tenureLabel}</span>`);
             }
-            if (listing.has_garden) badges.push('<span class="badge badge-garden">Garden</span>');
-            if (listing.has_balcony) badges.push('<span class="badge badge-balcony">Balcony</span>');
+            if (listing.has_garden) badges.push('<span class="badge badge-garden badge-tip" data-tip="Listing mentions a garden — check photos to see if it\'s private or shared">Garden</span>');
+            if (listing.has_balcony) badges.push('<span class="badge badge-balcony badge-tip" data-tip="Listing mentions a balcony — could be a Juliet balcony or full-size, check photos">Balcony</span>');
 
             // Valuation badges
             if (listing.vs_median_pct != null) {
                 const pct = listing.vs_median_pct;
+                const compMedian = listing.comparable_median ? formatPrice(listing.comparable_median) : '?';
+                const compCount = listing.comparable_count || 0;
+                const level = listing.comparable_level || 'outcode';
+                const levelLabel = level === 'street' ? 'this street' : level === 'postcode' ? 'this postcode' : 'this area';
                 if (pct <= -10) {
-                    badges.push(`<span class="badge badge-undervalued">${Math.abs(Math.round(pct))}% below median</span>`);
+                    badges.push(`<span class="badge badge-undervalued badge-tip" data-tip="Asking price is ${Math.abs(Math.round(pct))}% below the ${compMedian} median sold price for similar properties on ${levelLabel} (based on ${compCount} Land Registry sales in the last 2 years). Could be a good deal — or there may be a reason it's cheap.">${Math.abs(Math.round(pct))}% below median</span>`);
                 } else if (pct >= 10) {
-                    badges.push(`<span class="badge badge-overvalued">${Math.round(pct)}% above median</span>`);
+                    badges.push(`<span class="badge badge-overvalued badge-tip" data-tip="Asking price is ${Math.round(pct)}% above the ${compMedian} median sold price for similar properties on ${levelLabel} (based on ${compCount} Land Registry sales in the last 2 years). Might be overpriced, or could have features that justify it.">${Math.round(pct)}% above median</span>`);
+                } else {
+                    badges.push(`<span class="badge badge-fair badge-tip" data-tip="Asking price is within 10% of the ${compMedian} median for similar properties on ${levelLabel} (${compCount} sales). Priced about right for the area.">Fair value</span>`);
                 }
             }
             if (listing.area_growth_pct != null) {
                 const g = listing.area_growth_pct;
                 const cls = g >= 15 ? 'badge-growth-high' : g >= 0 ? 'badge-growth' : 'badge-growth-neg';
-                badges.push(`<span class="badge ${cls}">Area ${g >= 0 ? '+' : ''}${g.toFixed(0)}% (5yr)</span>`);
+                const growthTip = g >= 15
+                    ? `Property prices in this postcode have risen ${g.toFixed(0)}% over 5 years — a strong growth area. Good for building equity.`
+                    : g >= 0
+                    ? `Property prices in this postcode have risen ${g.toFixed(0)}% over 5 years — steady but not exceptional growth.`
+                    : `Property prices in this postcode have fallen ${Math.abs(g).toFixed(0)}% over 5 years. Could mean a buying opportunity, or an area losing demand.`;
+                badges.push(`<span class="badge ${cls} badge-tip" data-tip="${growthTip}">Area ${g >= 0 ? '+' : ''}${g.toFixed(0)}% (5yr)</span>`);
             }
 
             const isNew = listing.first_seen === new Date().toISOString().slice(0, 10);
@@ -624,7 +640,7 @@ function renderListings(listings) {
                             <span class="card-price">${formatPrice(listing.price)}</span>
                             <span class="card-monthly">${monthlyMortgage ? formatMonthly(monthlyMortgage) : ''}</span>
                         </div>
-                        ${listing.comparable_median ? `<div class="card-comp-price">Area median: ${formatPrice(listing.comparable_median)} (${listing.comparable_count} sales)</div>` : ''}
+                        ${listing.comparable_median ? `<div class="card-comp-price">${listing.comparable_level === 'street' ? 'Street' : listing.comparable_level === 'postcode' ? 'Postcode' : 'Area'} median: ${formatPrice(listing.comparable_median)} (${listing.comparable_count} sales)</div>` : ''}
                         <div class="card-footer">
                             ${listing.first_seen ? `<span class="card-date">Added ${formatDate(listing.first_seen)}</span>` : ''}
                             ${listing.added_or_reduced && listing.added_or_reduced.toLowerCase().includes('reduced') ? `<span class="badge badge-reduced">${listing.added_or_reduced}</span>` : ''}

@@ -699,6 +699,43 @@ main {
     color: white;
 }
 
+/* Badge tooltips */
+.badge-tip {
+    position: relative;
+    cursor: help;
+}
+
+.badge-tip::after {
+    content: attr(data-tip);
+    display: none;
+    position: absolute;
+    bottom: calc(100% + 8px);
+    left: 50%;
+    transform: translateX(-50%);
+    background: var(--text);
+    color: var(--bg);
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1.5;
+    padding: 8px 12px;
+    border-radius: var(--radius);
+    white-space: normal;
+    width: 260px;
+    z-index: 100;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    pointer-events: none;
+}
+
+.badge-tip:hover::after {
+    display: block;
+}
+
+/* Fair value badge */
+.badge-fair {
+    background: var(--bg-subtle);
+    color: var(--text-secondary);
+}
+
 /* Image slideshow */
 .card-slideshow {
     position: relative;
