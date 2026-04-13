@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T12:37:06.747924",
+  "generated_at": "2026-04-13T12:39:53.658214",
   "config": {
     "max_budget": 700000,
     "target_budget": 650000,
@@ -1032,29 +1032,6 @@
       "growth_pct": null
     },
     {
-      "name": "Cambridge",
-      "region": "Cambridge",
-      "total_score": 0.392,
-      "commute_minutes": null,
-      "scores": {
-        "commute_time": 0,
-        "commute_cost": 0,
-        "crime_safety": 0.76,
-        "green_space": 0.5,
-        "walkability": 0.3,
-        "broadband": 1.0,
-        "budget_fit": 0.85
-      },
-      "avg_price": 500000,
-      "mortgage_monthly": 1497,
-      "effective_monthly": 2039,
-      "annual_ticket": 6500,
-      "area_type": "commuter",
-      "lat": 52.1942,
-      "lng": 0.1374,
-      "growth_pct": null
-    },
-    {
       "name": "Luton",
       "region": "Commuter Towns",
       "total_score": 0.377,
@@ -1076,6 +1053,29 @@
       "lat": 51.879,
       "lng": -0.418,
       "growth_pct": null
+    },
+    {
+      "name": "Cambridge",
+      "region": "Cambridge",
+      "total_score": 0.344,
+      "commute_minutes": null,
+      "scores": {
+        "commute_time": 0,
+        "commute_cost": 0,
+        "crime_safety": 0.76,
+        "green_space": 0.18,
+        "walkability": 0.3,
+        "broadband": 1.0,
+        "budget_fit": 0.85
+      },
+      "avg_price": 500000,
+      "mortgage_monthly": 1497,
+      "effective_monthly": 2039,
+      "annual_ticket": 6500,
+      "area_type": "commuter",
+      "lat": 52.1942,
+      "lng": 0.1374,
+      "growth_pct": 16.1
     }
   ],
   "listings": [
@@ -9051,13 +9051,13 @@
       "area_score": 0.5,
       "listing_score": 0.64,
       "added_or_reduced": "Added on 05/03/2026",
-      "area_growth_pct": null,
-      "area_median_price": null,
-      "vs_median_pct": null,
-      "valuation_verdict": null,
-      "comparable_median": null,
-      "comparable_count": null,
-      "comparable_level": null
+      "area_growth_pct": 7.1,
+      "area_median_price": 495000,
+      "vs_median_pct": 15.7,
+      "valuation_verdict": "overvalued",
+      "comparable_median": 540000,
+      "comparable_count": 11,
+      "comparable_level": "street"
     },
     {
       "id": "rm_168399863",
@@ -9133,13 +9133,13 @@
       "area_score": 0.5,
       "listing_score": 0.64,
       "added_or_reduced": "Added on 17/02/2026",
-      "area_growth_pct": null,
-      "area_median_price": null,
-      "vs_median_pct": null,
-      "valuation_verdict": null,
-      "comparable_median": null,
-      "comparable_count": null,
-      "comparable_level": null
+      "area_growth_pct": 7.1,
+      "area_median_price": 495000,
+      "vs_median_pct": 6.2,
+      "valuation_verdict": "fair",
+      "comparable_median": 565000,
+      "comparable_count": 235,
+      "comparable_level": "outcode"
     },
     {
       "id": "rm_173983811",
@@ -15342,13 +15342,13 @@
       "area_score": 0.5,
       "listing_score": 0.62,
       "added_or_reduced": "Added on 26/12/2025",
-      "area_growth_pct": null,
-      "area_median_price": null,
-      "vs_median_pct": null,
-      "valuation_verdict": null,
-      "comparable_median": null,
-      "comparable_count": null,
-      "comparable_level": null
+      "area_growth_pct": 7.1,
+      "area_median_price": 495000,
+      "vs_median_pct": -11.2,
+      "valuation_verdict": "undervalued",
+      "comparable_median": 675603,
+      "comparable_count": 8,
+      "comparable_level": "street"
     },
     {
       "id": "rm_87621516",
@@ -15424,13 +15424,13 @@
       "area_score": 0.5,
       "listing_score": 0.62,
       "added_or_reduced": "Reduced on 13/01/2026",
-      "area_growth_pct": null,
-      "area_median_price": null,
-      "vs_median_pct": null,
-      "valuation_verdict": null,
-      "comparable_median": null,
-      "comparable_count": null,
-      "comparable_level": null
+      "area_growth_pct": 7.1,
+      "area_median_price": 495000,
+      "vs_median_pct": 20.0,
+      "valuation_verdict": "overvalued",
+      "comparable_median": 500000,
+      "comparable_count": 481,
+      "comparable_level": "outcode"
     },
     {
       "id": "rm_171909167",
@@ -15506,13 +15506,13 @@
       "area_score": 0.5,
       "listing_score": 0.62,
       "added_or_reduced": "Reduced on 20/03/2026",
-      "area_growth_pct": null,
-      "area_median_price": null,
-      "vs_median_pct": null,
-      "valuation_verdict": null,
-      "comparable_median": null,
-      "comparable_count": null,
-      "comparable_level": null
+      "area_growth_pct": 7.1,
+      "area_median_price": 495000,
+      "vs_median_pct": 6.2,
+      "valuation_verdict": "fair",
+      "comparable_median": 565000,
+      "comparable_count": 235,
+      "comparable_level": "outcode"
     },
     {
       "id": "rm_173319899",
@@ -15547,13 +15547,13 @@
       "area_score": 0.5,
       "listing_score": 0.62,
       "added_or_reduced": "Added on 16/03/2026",
-      "area_growth_pct": null,
-      "area_median_price": null,
-      "vs_median_pct": null,
-      "valuation_verdict": null,
-      "comparable_median": null,
-      "comparable_count": null,
-      "comparable_level": null
+      "area_growth_pct": 25.1,
+      "area_median_price": 560000,
+      "vs_median_pct": -8.1,
+      "valuation_verdict": "fair",
+      "comparable_median": 647500,
+      "comparable_count": 117,
+      "comparable_level": "outcode"
     },
     {
       "id": "rm_169253882",
@@ -27749,13 +27749,13 @@
       "area_score": 0.5,
       "listing_score": 0.5,
       "added_or_reduced": "Reduced on 09/01/2026",
-      "area_growth_pct": null,
-      "area_median_price": null,
-      "vs_median_pct": null,
-      "valuation_verdict": null,
-      "comparable_median": null,
-      "comparable_count": null,
-      "comparable_level": null
+      "area_growth_pct": 7.1,
+      "area_median_price": 495000,
+      "vs_median_pct": 34.3,
+      "valuation_verdict": "overvalued",
+      "comparable_median": 540000,
+      "comparable_count": 11,
+      "comparable_level": "street"
     }
   ]
 }
