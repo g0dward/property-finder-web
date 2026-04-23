@@ -5,28 +5,14 @@
     <link>https://g0dward.github.io/property-finder-web</link>
     <atom:link href="https://g0dward.github.io/property-finder-web/rss.xml" rel="self" type="application/rss+xml"/>
     <description>New property listings in shortlisted areas: Highgate, Crouch End, Highbury, Stoke Newington, Archway, Belsize Park, Kentish Town, Herne Hill, Haggerston</description>
-    <lastBuildDate>Wed, 22 Apr 2026 09:01:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 09:01:57 +0000</lastBuildDate>
     <language>en-gb</language>
-    <item>
-      <title>Hemel Hempstead Road, Redbourn, St. Albans, Hertfordshire, AL3 - £600,000 (St Albans)</title>
-      <link>https://www.rightmove.co.uk/properties/174483470#/?channel=RES_BUY</link>
-      <guid isPermaLink="false">rm_174483470</guid>
-      <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/221be14af/174483470/221be14afb410a62afa70b291b177d09_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-Detached in St Albans&lt;br&gt;£600,000 | 116.7 sqm | 43 min to KGX&lt;br&gt;Score: 69/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;UNDERVALUED: 12% below outcode median (£685,000)&lt;br&gt;Area 5yr growth: +9%&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Buttermere Close, St Albans, AL1 - £575,000 (St Albans)</title>
       <link>https://www.rightmove.co.uk/properties/174736355#/?channel=RES_BUY</link>
       <guid isPermaLink="false">rm_174736355</guid>
       <pubDate>Tue, 21 Apr 2026 08:00:00 +0000</pubDate>
       <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/07a158916/174736355/07a158916f7f5f8666b89494180c07a6_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-Detached in St Albans&lt;br&gt;£575,000 | 72.3 sqm | 43 min to KGX&lt;br&gt;Score: 67/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;UNDERVALUED: 24% below outcode median (£760,000)&lt;br&gt;Area 5yr growth: +1%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>St. Michaels Street, St. Albans - £650,000 (St Albans)</title>
-      <link>https://www.rightmove.co.uk/properties/174486614#/?channel=RES_BUY</link>
-      <guid isPermaLink="false">rm_174486614</guid>
-      <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e1bda85b5/174486614/e1bda85b5748160fe3a224cb144970e6_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Terraced in St Albans&lt;br&gt;£650,000 | 73.8 sqm | 43 min to KGX&lt;br&gt;Score: 67/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;Fair value vs outcode median (£595,000)&lt;br&gt;Area 5yr growth: +9%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Aysgarth Road, Redbourn, St. Albans, Hertfordshire, AL3 - £685,000 (St Albans)</title>
@@ -50,13 +36,6 @@
       <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3e2c4a444/174509678/3e2c4a4446309e59f4b3f701cad3a24f_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Terraced in St Albans&lt;br&gt;£635,000 | None sqm | 43 min to KGX&lt;br&gt;Score: 63/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;Fair value vs street median (£585,000)&lt;br&gt;Area 5yr growth: +9%&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Oster Street, St. Albans, Hertfordshire, AL3 - £580,000 (St Albans)</title>
-      <link>https://www.rightmove.co.uk/properties/174481196#/?channel=RES_BUY</link>
-      <guid isPermaLink="false">rm_174481196</guid>
-      <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d0753a9a3/174481196/d0753a9a345ceff8030613f4496928d7_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed End of Terrace in St Albans&lt;br&gt;£580,000 | None sqm | 43 min to KGX&lt;br&gt;Score: 63/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;Fair value vs street median (£585,000)&lt;br&gt;Area 5yr growth: +9%&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Cranwich Road, London, N16 - £675,000 (Stoke Newington)</title>
       <link>https://www.rightmove.co.uk/properties/174665360#/?channel=RES_BUY</link>
       <guid isPermaLink="false">rm_174665360</guid>
@@ -71,18 +50,11 @@
       <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c13474731/174748196/c134747319179f9ac9530f05f97d510a_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced in St Albans&lt;br&gt;£600,000 | None sqm | 43 min to KGX&lt;br&gt;Score: 59/100 | FREEHOLD&lt;br&gt;Fair value vs outcode median (£595,000)&lt;br&gt;Area 5yr growth: +9%&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Oswald Road, St. Albans, Hertfordshire, AL1 - £700,000 (St Albans)</title>
-      <link>https://www.rightmove.co.uk/properties/174459236#/?channel=RES_BUY</link>
-      <guid isPermaLink="false">rm_174459236</guid>
-      <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/204eab4b2/174459236/204eab4b2e8cf8c6149885bbb3c3199a_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Terraced in St Albans&lt;br&gt;£700,000 | None sqm | 43 min to KGX&lt;br&gt;Score: 59/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;Above median: 12% above outcode median (£625,000)&lt;br&gt;Area 5yr growth: +1%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Riverside Road, St. Albans, Hertfordshire, AL1 - £750,000 (St Albans)</title>
-      <link>https://www.rightmove.co.uk/properties/174464783#/?channel=RES_BUY</link>
-      <guid isPermaLink="false">rm_174464783</guid>
-      <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6b8cddf78/174464783/6b8cddf78cb73dc4e0a6e39cc05b708e_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced in St Albans&lt;br&gt;£750,000 | 106.2 sqm | 43 min to KGX&lt;br&gt;Score: 59/100 | FREEHOLD&lt;br&gt;Above median: 32% above street median (£568,000)&lt;br&gt;Area 5yr growth: +1%&lt;/p&gt;</description>
+      <title>St. Thomas's Gardens, Kentish Town - £675,000 (Kentish Town)</title>
+      <link>https://www.rightmove.co.uk/properties/174798356#/?channel=RES_BUY</link>
+      <guid isPermaLink="false">rm_174798356</guid>
+      <pubDate>Wed, 22 Apr 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f3e585e9b/174798356/f3e585e9bf35fd194e7c342e5328b38f_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Kentish Town&lt;br&gt;£675,000 | None sqm | 22 min to KGX&lt;br&gt;Score: 59/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 23% above outcode median (£550,000)&lt;br&gt;Area 5yr growth: +9%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Newsom Place, Hatfield Road, St Albans, AL1 - £625,000 (St Albans)</title>
