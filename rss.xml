@@ -5,7 +5,7 @@
     <link>https://g0dward.github.io/property-finder-web</link>
     <atom:link href="https://g0dward.github.io/property-finder-web/rss.xml" rel="self" type="application/rss+xml"/>
     <description>New property listings in shortlisted areas: Highgate, Crouch End, Highbury, Stoke Newington, Archway, Belsize Park, Kentish Town, Herne Hill, Haggerston</description>
-    <lastBuildDate>Fri, 24 Apr 2026 09:20:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 09:23:55 +0000</lastBuildDate>
     <language>en-gb</language>
     <item>
       <title>The Park, Redbourn, St. Albans, AL3 - £580,000 (St Albans)</title>
@@ -15,11 +15,25 @@
       <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/55a24f22a/174825530/55a24f22a34f0013b1dfc512492bf08e_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced in St Albans&lt;br&gt;£580,000 | 116.6 sqm | 43 min to KGX&lt;br&gt;Score: 69/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;Above median: 49% above street median (£390,000)&lt;br&gt;Area 5yr growth: +9%&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Foxcroft, St. Albans - £650,000 (St Albans)</title>
+      <link>https://www.rightmove.co.uk/properties/174889964#/?channel=RES_BUY</link>
+      <guid isPermaLink="false">rm_174889964</guid>
+      <pubDate>Fri, 24 Apr 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/74ebac1a8/174889964/74ebac1a8425aa3585ba98b2021416f8_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Detached Bungalow in St Albans&lt;br&gt;£650,000 | 81.0 sqm | 43 min to KGX&lt;br&gt;Score: 69/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;UNDERVALUED: 22% below street median (£836,500)&lt;br&gt;Area 5yr growth: +1%&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Buttermere Close, St Albans, AL1 - £575,000 (St Albans)</title>
       <link>https://www.rightmove.co.uk/properties/174736355#/?channel=RES_BUY</link>
       <guid isPermaLink="false">rm_174736355</guid>
       <pubDate>Tue, 21 Apr 2026 08:00:00 +0000</pubDate>
       <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/07a158916/174736355/07a158916f7f5f8666b89494180c07a6_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-Detached in St Albans&lt;br&gt;£575,000 | 72.3 sqm | 43 min to KGX&lt;br&gt;Score: 67/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;UNDERVALUED: 25% below outcode median (£765,000)&lt;br&gt;Area 5yr growth: +1%&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scholars Place, Stoke Newington, N16 - £625,000 (Stoke Newington)</title>
+      <link>https://www.rightmove.co.uk/properties/174882644#/?channel=RES_BUY</link>
+      <guid isPermaLink="false">rm_174882644</guid>
+      <pubDate>Fri, 24 Apr 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/caa649e44/174882644/caa649e4463382c626e9c282a2a8cdcd_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Apartment in Stoke Newington&lt;br&gt;£625,000 | 79.0 sqm | 35 min to KGX&lt;br&gt;Score: 65/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 25% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +1%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Evangelist Road, Kentish Town - £650,000 (Kentish Town)</title>
@@ -29,18 +43,25 @@
       <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/eb0d81b27/174674672/eb0d81b27d0e8b6507618e7aaa904ec8_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Kentish Town&lt;br&gt;£650,000 | None sqm | 22 min to KGX&lt;br&gt;Score: 63/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 18% above outcode median (£550,000)&lt;br&gt;Area 5yr growth: +9%&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Mercers Road, London - £650,000 (Archway)</title>
+      <link>https://www.rightmove.co.uk/properties/174892139#/?channel=RES_BUY</link>
+      <guid isPermaLink="false">rm_174892139</guid>
+      <pubDate>Fri, 24 Apr 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8bb5a888b/174892139/8bb5a888b094525123f6014175586b46_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Archway&lt;br&gt;£650,000 | None sqm | 23 min to KGX&lt;br&gt;Score: 62/100 | SHARE_OF_FREEHOLD&lt;br&gt;Fair value vs street median (£625,000)&lt;br&gt;Area 5yr growth: +9%&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Hornsey Park Road, Hornsey, N8 - £675,000 (Crouch End)</title>
       <link>https://www.rightmove.co.uk/properties/174852626#/?channel=RES_BUY</link>
       <guid isPermaLink="false">rm_174852626</guid>
       <pubDate>Thu, 23 Apr 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/33ca28518/174852626/33ca28518b8fb1fec2908f0f0cd600df_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced in Crouch End&lt;br&gt;£675,000 | None sqm | 28 min to KGX&lt;br&gt;Score: 62/100 | FREEHOLD&lt;br&gt;Fair value vs street median (£675,000)&lt;br&gt;Area 5yr growth: +13%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/33ca28518/174852626/33ca28518b8fb1fec2908f0f0cd600df_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced in Crouch End&lt;br&gt;£675,000 | None sqm | 28 min to KGX&lt;br&gt;Score: 62/100 | FREEHOLD&lt;br&gt;Fair value vs street median (£675,000)&lt;br&gt;Area 5yr growth: +14%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Frognal, London, NW3 - £725,000 (Belsize Park)</title>
       <link>https://www.rightmove.co.uk/properties/174826235#/?channel=RES_BUY</link>
       <guid isPermaLink="false">rm_174826235</guid>
       <pubDate>Thu, 23 Apr 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1e962126b/174826235/1e962126bf58e8bcbf3c79d106531834_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Apartment in Belsize Park&lt;br&gt;£725,000 | 547.0 sqm | 27 min to KGX&lt;br&gt;Score: 62/100 | SHARE_OF_FREEHOLD&lt;br&gt;UNDERVALUED: 24% below street median (£950,000)&lt;br&gt;Area 5yr growth: -6%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1e962126b/174826235/1e962126bf58e8bcbf3c79d106531834_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Apartment in Belsize Park&lt;br&gt;£725,000 | 547.0 sqm | 27 min to KGX&lt;br&gt;Score: 62/100 | SHARE_OF_FREEHOLD&lt;br&gt;UNDERVALUED: 24% below street median (£950,000)&lt;br&gt;Area 5yr growth: -3%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cranwich Road, London, N16 - £675,000 (Stoke Newington)</title>
