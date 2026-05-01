@@ -5,7 +5,7 @@
     <link>https://g0dward.github.io/property-finder-web</link>
     <atom:link href="https://g0dward.github.io/property-finder-web/rss.xml" rel="self" type="application/rss+xml"/>
     <description>New property listings in shortlisted areas: Highgate, Crouch End, Highbury, Stoke Newington, Archway, Belsize Park, Kentish Town, Herne Hill, Haggerston</description>
-    <lastBuildDate>Thu, 30 Apr 2026 09:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 09:01:54 +0000</lastBuildDate>
     <language>en-gb</language>
     <item>
       <title>Ferme Park Road, Crouch End N8 - £700,000 (Crouch End)</title>
@@ -13,13 +13,6 @@
       <guid isPermaLink="false">rm_87872592</guid>
       <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
       <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/df608e655/87872592/df608e655fc1e7c1174e1f24b4bd31b3_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Apartment in Crouch End&lt;br&gt;£700,000 | 86.0 sqm | 28 min to KGX&lt;br&gt;Score: 72/100 | SHARE_OF_FREEHOLD&lt;br&gt;Garden&lt;br&gt;Above median: 44% above street median (£485,000)&lt;br&gt;Area 5yr growth: +13%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Park, Redbourn, St. Albans, AL3 - £580,000 (St Albans)</title>
-      <link>https://www.rightmove.co.uk/properties/174825530#/?channel=RES_BUY</link>
-      <guid isPermaLink="false">rm_174825530</guid>
-      <pubDate>Thu, 23 Apr 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/55a24f22a/174825530/55a24f22a34f0013b1dfc512492bf08e_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced in St Albans&lt;br&gt;£580,000 | 116.6 sqm | 43 min to KGX&lt;br&gt;Score: 69/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;Above median: 49% above street median (£390,000)&lt;br&gt;Area 5yr growth: +9%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Foxcroft, St. Albans - £650,000 (St Albans)</title>
@@ -40,7 +33,7 @@
       <link>https://www.rightmove.co.uk/properties/87880275#/?channel=RES_BUY</link>
       <guid isPermaLink="false">rm_87880275</guid>
       <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef696a058/87880275/ef696a05854cc16b2f5158243e71483c_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Flat in Archway&lt;br&gt;£675,000 | 83.1 sqm | 23 min to KGX&lt;br&gt;Score: 68/100 | SHARE_OF_FREEHOLD&lt;br&gt;Garden&lt;br&gt;Above median: 84% above street median (£367,500)&lt;br&gt;Area 5yr growth: +9%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ef696a058/87880275/ef696a05854cc16b2f5158243e71483c_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Flat in Archway&lt;br&gt;£675,000 | 83.1 sqm | 23 min to KGX&lt;br&gt;Score: 68/100 | SHARE_OF_FREEHOLD&lt;br&gt;Garden&lt;br&gt;Above median: 84% above street median (£367,500)&lt;br&gt;Area 5yr growth: +8%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wembury Road, Highgate, London, N6 - £625,000 (Highgate)</title>
@@ -89,42 +82,70 @@
       <link>https://www.rightmove.co.uk/properties/174892139#/?channel=RES_BUY</link>
       <guid isPermaLink="false">rm_174892139</guid>
       <pubDate>Fri, 24 Apr 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8bb5a888b/174892139/8bb5a888b094525123f6014175586b46_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Archway&lt;br&gt;£650,000 | None sqm | 23 min to KGX&lt;br&gt;Score: 62/100 | SHARE_OF_FREEHOLD&lt;br&gt;Fair value vs street median (£625,000)&lt;br&gt;Area 5yr growth: +9%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8bb5a888b/174892139/8bb5a888b094525123f6014175586b46_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Archway&lt;br&gt;£650,000 | None sqm | 23 min to KGX&lt;br&gt;Score: 62/100 | SHARE_OF_FREEHOLD&lt;br&gt;Fair value vs street median (£625,000)&lt;br&gt;Area 5yr growth: +8%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tremlett Grove, St John's Grove Conservation Area - £575,000 (Archway)</title>
       <link>https://www.rightmove.co.uk/properties/174958550#/?channel=RES_BUY</link>
       <guid isPermaLink="false">rm_174958550</guid>
       <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/686e4eeef/174958550/686e4eeef8d4af2e32e48f74fea558bf_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Archway&lt;br&gt;£575,000 | None sqm | 23 min to KGX&lt;br&gt;Score: 62/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 15% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +9%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/686e4eeef/174958550/686e4eeef8d4af2e32e48f74fea558bf_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Archway&lt;br&gt;£575,000 | None sqm | 23 min to KGX&lt;br&gt;Score: 62/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 15% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +8%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Highcroft Road, London, N19 - £600,000 (Archway)</title>
       <link>https://www.rightmove.co.uk/properties/87777576#/?channel=RES_BUY</link>
       <guid isPermaLink="false">rm_87777576</guid>
       <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e28d7ccf9/87777576/e28d7ccf9dcf0a3ca4615f52df850768_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Maisonette in Archway&lt;br&gt;£600,000 | None sqm | 23 min to KGX&lt;br&gt;Score: 62/100 | None&lt;br&gt;Balcony&lt;br&gt;Above median: 20% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +9%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e28d7ccf9/87777576/e28d7ccf9dcf0a3ca4615f52df850768_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Maisonette in Archway&lt;br&gt;£600,000 | None sqm | 23 min to KGX&lt;br&gt;Score: 62/100 | None&lt;br&gt;Balcony&lt;br&gt;Above median: 20% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +8%&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Hornsey Park Road, Hornsey, N8 - £675,000 (Crouch End)</title>
-      <link>https://www.rightmove.co.uk/properties/174852626#/?channel=RES_BUY</link>
-      <guid isPermaLink="false">rm_174852626</guid>
-      <pubDate>Thu, 23 Apr 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/33ca28518/174852626/33ca28518b8fb1fec2908f0f0cd600df_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced in Crouch End&lt;br&gt;£675,000 | None sqm | 28 min to KGX&lt;br&gt;Score: 62/100 | FREEHOLD&lt;br&gt;Fair value vs street median (£675,000)&lt;br&gt;Area 5yr growth: +13%&lt;/p&gt;</description>
+      <title>Netherway, St. Albans, Hertfordshire, AL3 - £700,000 (St Albans)</title>
+      <link>https://www.rightmove.co.uk/properties/87943842#/?channel=RES_BUY</link>
+      <guid isPermaLink="false">rm_87943842</guid>
+      <pubDate>Fri, 01 May 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0bcf64876/87943842/0bcf64876b0b95d84b5c04d7911e0e11_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Bungalow in St Albans&lt;br&gt;£700,000 | 101.6 sqm | 43 min to KGX&lt;br&gt;Score: 61/100 | FREEHOLD&lt;br&gt;UNDERVALUED: 22% below outcode median (£900,000)&lt;br&gt;Area 5yr growth: +9%&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Frognal, London, NW3 - £725,000 (Belsize Park)</title>
-      <link>https://www.rightmove.co.uk/properties/174826235#/?channel=RES_BUY</link>
-      <guid isPermaLink="false">rm_174826235</guid>
-      <pubDate>Thu, 23 Apr 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1e962126b/174826235/1e962126bf58e8bcbf3c79d106531834_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Apartment in Belsize Park&lt;br&gt;£725,000 | 547.0 sqm | 27 min to KGX&lt;br&gt;Score: 62/100 | SHARE_OF_FREEHOLD&lt;br&gt;UNDERVALUED: 24% below street median (£950,000)&lt;br&gt;Area 5yr growth: -4%&lt;/p&gt;</description>
+      <title>Dolesbury Drive, Oaklands, Welwyn, Hertfordshire, AL6 - £600,000 (Welwyn)</title>
+      <link>https://www.rightmove.co.uk/properties/87913704#/?channel=RES_BUY</link>
+      <guid isPermaLink="false">rm_87913704</guid>
+      <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/021ab78bd/87913704/021ab78bd5ef265a107b69b575f07a1f_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Bungalow in Welwyn&lt;br&gt;£600,000 | 92.1 sqm | None min to KGX&lt;br&gt;Score: 61/100 | FREEHOLD&lt;br&gt;Garden&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Norwood Road, SE24 - £660,000 (Herne Hill)</title>
+      <link>https://www.rightmove.co.uk/properties/87933636#/?channel=RES_BUY</link>
+      <guid isPermaLink="false">rm_87933636</guid>
+      <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d24a400b4/87933636/d24a400b426bdf9e4cfc7a53bebb5013_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Flat in Herne Hill&lt;br&gt;£660,000 | 88.9 sqm | 43 min to KGX&lt;br&gt;Score: 61/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 28% above street median (£515,000)&lt;br&gt;Area 5yr growth: +15%&lt;/p&gt;</description>
     </item>
     <item>
       <title>St. John's Way, London, N19 - £725,000 (Archway)</title>
       <link>https://www.rightmove.co.uk/properties/87835551#/?channel=RES_BUY</link>
       <guid isPermaLink="false">rm_87835551</guid>
       <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1d204264d/87835551/1d204264d66bfd84e01e30dcd242d582_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Archway&lt;br&gt;£725,000 | None sqm | 23 min to KGX&lt;br&gt;Score: 60/100 | SHARE_OF_FREEHOLD&lt;br&gt;Garden&lt;br&gt;Above median: 45% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +9%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1d204264d/87835551/1d204264d66bfd84e01e30dcd242d582_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Archway&lt;br&gt;£725,000 | None sqm | 23 min to KGX&lt;br&gt;Score: 60/100 | SHARE_OF_FREEHOLD&lt;br&gt;Garden&lt;br&gt;Above median: 45% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +8%&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pageant Road, St. Albans, Hertfordshire - £575,000 (St Albans)</title>
+      <link>https://www.rightmove.co.uk/properties/87930480#/?channel=RES_BUY</link>
+      <guid isPermaLink="false">rm_87930480</guid>
+      <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8aea084f7/87930480/8aea084f70729ac96f6029edcf024332_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed End of Terrace in St Albans&lt;br&gt;£575,000 | None sqm | 43 min to KGX&lt;br&gt;Score: 59/100 | FREEHOLD&lt;br&gt;UNDERVALUED: 13% below street median (£660,000)&lt;br&gt;Area 5yr growth: +1%&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Drayton Park, Islington - £700,000 (Highbury)</title>
+      <link>https://www.rightmove.co.uk/properties/87931200#/?channel=RES_BUY</link>
+      <guid isPermaLink="false">rm_87931200</guid>
+      <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/28484c307/87931200/28484c30745bd7d979ed404875047054_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Flat in Highbury&lt;br&gt;£700,000 | None sqm | 22 min to KGX&lt;br&gt;Score: 57/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 61% above street median (£435,000)&lt;br&gt;Area 5yr growth: +3%&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Trowley Hill Road, Flamstead, St. Albans, Hertfordshire, AL3 - £749,000 (St Albans)</title>
+      <link>https://www.rightmove.co.uk/properties/87916389#/?channel=RES_BUY</link>
+      <guid isPermaLink="false">rm_87916389</guid>
+      <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/768724770/87916389/768724770740f9f2daa276e165e0f655_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-Detached in St Albans&lt;br&gt;£749,000 | None sqm | 43 min to KGX&lt;br&gt;Score: 57/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;Fair value vs outcode median (£685,000)&lt;br&gt;Area 5yr growth: +9%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Norwood Road, Tulse Hill - £750,000 (Herne Hill)</title>
