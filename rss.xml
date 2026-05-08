@@ -5,7 +5,7 @@
     <link>https://g0dward.github.io/property-finder-web</link>
     <atom:link href="https://g0dward.github.io/property-finder-web/rss.xml" rel="self" type="application/rss+xml"/>
     <description>New property listings in shortlisted areas: Highgate, Crouch End, Highbury, Stoke Newington, Archway, Belsize Park, Kentish Town, Herne Hill, Haggerston</description>
-    <lastBuildDate>Thu, 07 May 2026 09:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 09:19:38 +0000</lastBuildDate>
     <language>en-gb</language>
     <item>
       <title>Westacott Close, N19 - £625,000 (Archway)</title>
@@ -71,46 +71,11 @@
       <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/0bcf64876/87943842/0bcf64876b0b95d84b5c04d7911e0e11_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Bungalow in St Albans&lt;br&gt;£700,000 | 101.6 sqm | 43 min to KGX&lt;br&gt;Score: 61/100 | FREEHOLD&lt;br&gt;UNDERVALUED: 22% below outcode median (£900,000)&lt;br&gt;Area 5yr growth: +9%&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Dolesbury Drive, Oaklands, Welwyn, Hertfordshire, AL6 - £600,000 (Welwyn)</title>
-      <link>https://www.rightmove.co.uk/properties/87913704#/?channel=RES_BUY</link>
-      <guid isPermaLink="false">rm_87913704</guid>
-      <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/021ab78bd/87913704/021ab78bd5ef265a107b69b575f07a1f_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Bungalow in Welwyn&lt;br&gt;£600,000 | 92.1 sqm | None min to KGX&lt;br&gt;Score: 61/100 | FREEHOLD&lt;br&gt;Garden&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Norwood Road, SE24 - £660,000 (Herne Hill)</title>
-      <link>https://www.rightmove.co.uk/properties/87933636#/?channel=RES_BUY</link>
-      <guid isPermaLink="false">rm_87933636</guid>
-      <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d24a400b4/87933636/d24a400b426bdf9e4cfc7a53bebb5013_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Flat in Herne Hill&lt;br&gt;£660,000 | 88.9 sqm | 43 min to KGX&lt;br&gt;Score: 61/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 28% above street median (£515,820)&lt;br&gt;Area 5yr growth: +15%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pageant Road, St. Albans, Hertfordshire - £575,000 (St Albans)</title>
-      <link>https://www.rightmove.co.uk/properties/87930480#/?channel=RES_BUY</link>
-      <guid isPermaLink="false">rm_87930480</guid>
-      <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8aea084f7/87930480/8aea084f70729ac96f6029edcf024332_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed End of Terrace in St Albans&lt;br&gt;£575,000 | None sqm | 43 min to KGX&lt;br&gt;Score: 59/100 | FREEHOLD&lt;br&gt;UNDERVALUED: 13% below street median (£660,000)&lt;br&gt;Area 5yr growth: +1%&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Lee Street, London, E8 - £700,000 (Dalston)</title>
       <link>https://www.rightmove.co.uk/properties/87991683#/?channel=RES_BUY</link>
       <guid isPermaLink="false">rm_87991683</guid>
       <pubDate>Fri, 01 May 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/286a56798/87991683/286a567982d9ae4b278038c9bd04bb3f_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Apartment in Dalston&lt;br&gt;£700,000 | None sqm | 31 min to KGX&lt;br&gt;Score: 58/100 | SHARE_OF_FREEHOLD&lt;br&gt;Garden&lt;br&gt;Above median: 20% above street median (£581,552)&lt;br&gt;Area 5yr growth: +4%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Drayton Park, Islington - £700,000 (Highbury)</title>
-      <link>https://www.rightmove.co.uk/properties/87931200#/?channel=RES_BUY</link>
-      <guid isPermaLink="false">rm_87931200</guid>
-      <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/28484c307/87931200/28484c30745bd7d979ed404875047054_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Flat in Highbury&lt;br&gt;£700,000 | None sqm | 22 min to KGX&lt;br&gt;Score: 57/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 61% above street median (£435,000)&lt;br&gt;Area 5yr growth: +3%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Trowley Hill Road, Flamstead, St. Albans, Hertfordshire, AL3 - £749,000 (St Albans)</title>
-      <link>https://www.rightmove.co.uk/properties/87916389#/?channel=RES_BUY</link>
-      <guid isPermaLink="false">rm_87916389</guid>
-      <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/768724770/87916389/768724770740f9f2daa276e165e0f655_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-Detached in St Albans&lt;br&gt;£749,000 | None sqm | 43 min to KGX&lt;br&gt;Score: 57/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;Fair value vs outcode median (£685,000)&lt;br&gt;Area 5yr growth: +9%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/286a56798/87991683/286a567982d9ae4b278038c9bd04bb3f_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Apartment in Dalston&lt;br&gt;£700,000 | None sqm | 31 min to KGX&lt;br&gt;Score: 58/100 | SHARE_OF_FREEHOLD&lt;br&gt;Garden&lt;br&gt;Above median: 18% above street median (£594,000)&lt;br&gt;Area 5yr growth: +4%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Yerbury Road, London - £750,000 (Archway)</title>
@@ -125,6 +90,13 @@
       <guid isPermaLink="false">rm_87946980</guid>
       <pubDate>Fri, 01 May 2026 08:00:00 +0000</pubDate>
       <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e24b954d0/87946980/e24b954d0da890027444f46fdea0f386_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-Detached in Welwyn&lt;br&gt;£700,000 | 123.2 sqm | None min to KGX&lt;br&gt;Score: 53/100 | FREEHOLD&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Perne Road, Cambridge, CB1 - £715,000 (Cambridge)</title>
+      <link>https://www.rightmove.co.uk/properties/88176753#/?channel=RES_BUY</link>
+      <guid isPermaLink="false">rm_88176753</guid>
+      <pubDate>Thu, 07 May 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/d14229317/88176753/d142293170dea777e022eba50c23c342_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-Detached in Cambridge&lt;br&gt;£715,000 | None sqm | None min to KGX&lt;br&gt;Score: 47/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;Above median: 10% above street median (£650,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
