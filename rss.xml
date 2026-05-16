@@ -5,7 +5,7 @@
     <link>https://g0dward.github.io/property-finder-web</link>
     <atom:link href="https://g0dward.github.io/property-finder-web/rss.xml" rel="self" type="application/rss+xml"/>
     <description>New property listings in shortlisted areas: Highgate, Crouch End, Highbury, Stoke Newington, Archway, Belsize Park, Kentish Town, Herne Hill, Haggerston</description>
-    <lastBuildDate>Fri, 15 May 2026 09:03:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 09:45:06 +0000</lastBuildDate>
     <language>en-gb</language>
     <item>
       <title>Crouch Hill, London, N8 - £600,000 (Crouch End)</title>
@@ -22,6 +22,13 @@
       <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/dbb769c33/88408938/dbb769c3301d8e8f38ed2d8ea8805538_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Apartment in Crouch End&lt;br&gt;£700,000 | 73.1 sqm | 28 min to KGX&lt;br&gt;Score: 70/100 | SHARE_OF_FREEHOLD&lt;br&gt;Garden&lt;br&gt;Fair value vs street median (£662,500)&lt;br&gt;Area 5yr growth: +13%&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Gisburn Road, London, N8 - £625,000 (Crouch End)</title>
+      <link>https://www.rightmove.co.uk/properties/88539873#/?channel=RES_BUY</link>
+      <guid isPermaLink="false">rm_88539873</guid>
+      <pubDate>Fri, 15 May 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/572e4d805/88539873/572e4d805c3c62f416ed39c86a115d3f_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Crouch End&lt;br&gt;£625,000 | None sqm | 28 min to KGX&lt;br&gt;Score: 70/100 | SHARE_OF_FREEHOLD&lt;br&gt;Garden&lt;br&gt;Above median: 26% above outcode median (£498,000)&lt;br&gt;Area 5yr growth: +13%&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Trumpington Drive, St. Albans, AL1 - £595,000 (St Albans)</title>
       <link>https://www.rightmove.co.uk/properties/88350222#/?channel=RES_BUY</link>
       <guid isPermaLink="false">rm_88350222</guid>
@@ -29,18 +36,18 @@
       <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6ad6b5340/88350222/6ad6b53405878c6a43fbb91d1429aa14_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced in St Albans&lt;br&gt;£595,000 | 99.5 sqm | 43 min to KGX&lt;br&gt;Score: 69/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;Fair value vs street median (£625,000)&lt;br&gt;Area 5yr growth: +0%&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Holts Meadow, Redbourn, St. Albans, AL3 - £600,000 (St Albans)</title>
+      <link>https://www.rightmove.co.uk/properties/88538190#/?channel=RES_BUY</link>
+      <guid isPermaLink="false">rm_88538190</guid>
+      <pubDate>Fri, 15 May 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f919892da/88538190/f919892dabf9c0b7c0af264f636565e3_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-Detached in St Albans&lt;br&gt;£600,000 | 94.9 sqm | 43 min to KGX&lt;br&gt;Score: 69/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;UNDERVALUED: 12% below outcode median (£685,000)&lt;br&gt;Area 5yr growth: +8%&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Crown Street, Redbourn, St. Albans - £595,000 (St Albans)</title>
       <link>https://www.rightmove.co.uk/properties/88271016#/?channel=RES_BUY</link>
       <guid isPermaLink="false">rm_88271016</guid>
       <pubDate>Sat, 09 May 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/70562e83b/88271016/70562e83ba566ac4034072a23fca7883_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed House in St Albans&lt;br&gt;£595,000 | 75.2 sqm | 43 min to KGX&lt;br&gt;Score: 67/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;Fair value vs outcode median (£600,000)&lt;br&gt;Area 5yr growth: +9%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>St. John's Way, London, N19 - £750,000 (Archway)</title>
-      <link>https://www.rightmove.co.uk/properties/88228986#/?channel=RES_BUY</link>
-      <guid isPermaLink="false">rm_88228986</guid>
-      <pubDate>Fri, 08 May 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/15649ed4a/88228986/15649ed4aef02fa6e5e4a98445637ab3_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Flat in Archway&lt;br&gt;£750,000 | 90.9 sqm | 23 min to KGX&lt;br&gt;Score: 66/100 | SHARE_OF_FREEHOLD&lt;br&gt;Garden&lt;br&gt;Above median: 50% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +8%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/70562e83b/88271016/70562e83ba566ac4034072a23fca7883_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed House in St Albans&lt;br&gt;£595,000 | 75.2 sqm | 43 min to KGX&lt;br&gt;Score: 67/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;Fair value vs outcode median (£600,000)&lt;br&gt;Area 5yr growth: +8%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nelson Road, N8 - £575,000 (Crouch End)</title>
@@ -85,6 +92,13 @@
       <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/04d068003/88469259/04d068003396da6d708ea2d647de436e_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Archway&lt;br&gt;£625,000 | None sqm | 23 min to KGX&lt;br&gt;Score: 62/100 | SHARE_OF_FREEHOLD&lt;br&gt;Fair value vs street median (£616,000)&lt;br&gt;Area 5yr growth: +8%&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Sydney Road, Harringay, London, N8 - £700,000 (Crouch End)</title>
+      <link>https://www.rightmove.co.uk/properties/88526556#/?channel=RES_BUY</link>
+      <guid isPermaLink="false">rm_88526556</guid>
+      <pubDate>Fri, 15 May 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8c4f08bcc/88526556/8c4f08bcced44f88a9a338c380d5a766_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Flat in Crouch End&lt;br&gt;£700,000 | None sqm | 28 min to KGX&lt;br&gt;Score: 62/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 56% above street median (£450,000)&lt;br&gt;Area 5yr growth: +13%&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Shakspeare Walk, Stoke Newington - £600,000 (Stoke Newington)</title>
       <link>https://www.rightmove.co.uk/properties/88319388#/?channel=RES_BUY</link>
       <guid isPermaLink="false">rm_88319388</guid>
@@ -96,7 +110,7 @@
       <link>https://www.rightmove.co.uk/properties/88435608#/?channel=RES_BUY</link>
       <guid isPermaLink="false">rm_88435608</guid>
       <pubDate>Wed, 13 May 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1bb543e0e/88435608/1bb543e0ee7e760e778aa0e462f6a3f1_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Terraced in St Albans&lt;br&gt;£600,000 | None sqm | 43 min to KGX&lt;br&gt;Score: 59/100 | FREEHOLD&lt;br&gt;Fair value vs outcode median (£600,000)&lt;br&gt;Area 5yr growth: +9%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1bb543e0e/88435608/1bb543e0ee7e760e778aa0e462f6a3f1_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Terraced in St Albans&lt;br&gt;£600,000 | None sqm | 43 min to KGX&lt;br&gt;Score: 59/100 | FREEHOLD&lt;br&gt;Fair value vs outcode median (£600,000)&lt;br&gt;Area 5yr growth: +8%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Perne Road, Cambridge, CB1 - £625,000 (Cambridge)</title>
@@ -106,18 +120,11 @@
       <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ac5f4f7c5/88420236/ac5f4f7c5ad1ffa893ba99be969b52ce_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-Detached in Cambridge&lt;br&gt;£625,000 | 98.4 sqm | None min to KGX&lt;br&gt;Score: 59/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;Fair value vs street median (£650,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Middleton Road, London, E8 - £625,000 (Dalston)</title>
-      <link>https://www.rightmove.co.uk/properties/88231683#/?channel=RES_BUY</link>
-      <guid isPermaLink="false">rm_88231683</guid>
-      <pubDate>Fri, 08 May 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/46457a096/88231683/46457a09644077be7686549c257955f6_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Maisonette in Dalston&lt;br&gt;£625,000 | None sqm | 31 min to KGX&lt;br&gt;Score: 58/100 | SHARE_OF_FREEHOLD&lt;br&gt;Fair value vs street median (£575,000)&lt;br&gt;Area 5yr growth: +4%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Middleton Road, London, E8 - £700,000 (Dalston)</title>
-      <link>https://www.rightmove.co.uk/properties/88231362#/?channel=RES_BUY</link>
-      <guid isPermaLink="false">rm_88231362</guid>
-      <pubDate>Fri, 08 May 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e2c913fa5/88231362/e2c913fa5c68d917fff4c7b1dbdc9127_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Maisonette in Dalston&lt;br&gt;£700,000 | None sqm | 31 min to KGX&lt;br&gt;Score: 54/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 22% above street median (£575,000)&lt;br&gt;Area 5yr growth: +4%&lt;/p&gt;</description>
+      <title>Rosecroft Lane, Welwyn - £695,000 (Welwyn)</title>
+      <link>https://www.rightmove.co.uk/properties/88540326#/?channel=RES_BUY</link>
+      <guid isPermaLink="false">rm_88540326</guid>
+      <pubDate>Fri, 15 May 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/b2d20f539/88540326/b2d20f5391e7e01618606d97a6304397_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Detached Bungalow in Welwyn&lt;br&gt;£695,000 | 182.0 sqm | None min to KGX&lt;br&gt;Score: 53/100 | FREEHOLD&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
