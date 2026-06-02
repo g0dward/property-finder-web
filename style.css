@@ -950,3 +950,64 @@ main {
 @media (min-width: 1400px) {
     #app { max-width: 1400px; }
 }
+
+/* ── Property-first additions (Jun 2026) ── */
+
+/* "Why this ranked here" explanation line */
+.card-why {
+    font-size: 11.5px;
+    line-height: 1.4;
+    color: var(--text-secondary);
+    margin: 6px 0 2px;
+    padding: 5px 8px;
+    background: var(--bg-subtle, #f8f9fa);
+    border-radius: 6px;
+    border-left: 2px solid var(--accent, #4263eb);
+}
+
+/* Top-tier area badge */
+.badge-tier-top {
+    background: #fff4e6;
+    color: #e8590c;
+    font-weight: 600;
+}
+
+/* Thumbs feedback */
+.card-votes {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    z-index: 5;
+    display: flex;
+    gap: 4px;
+    opacity: 0;
+    transition: opacity 0.15s ease;
+}
+.listing-card-v2-wrap:hover .card-votes,
+.card-vote.active {
+    opacity: 1;
+}
+.card-vote {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    border: none;
+    background: rgba(255,255,255,0.85);
+    backdrop-filter: blur(4px);
+    font-size: 13px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+    filter: grayscale(1);
+    transition: filter 0.15s ease, transform 0.1s ease;
+}
+.card-vote:hover { transform: scale(1.12); }
+.card-vote.active { filter: grayscale(0); }
+.card-vote.vote-up.active { background: var(--green-light, #ebfbee); }
+.card-vote.vote-down.active { background: var(--red-light, #fff5f5); }
+
+/* De-emphasise down-voted cards */
+.listing-card-v2-wrap.voted-down { opacity: 0.5; }
+.listing-card-v2-wrap.voted-down:hover { opacity: 1; }

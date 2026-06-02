@@ -13,6 +13,7 @@ let insaneMode = false;
 // Preference state — loaded from localStorage
 let dismissedListings = new Set();  // listing IDs
 let areaPrefs = {};                 // { "Wood Green": "hidden", "Crouch End": "boosted" }
+let listingVotes = {};              // { "<id>": "up" | "down" } — thumbs feedback
 let activeAreas = new Set();        // selected area chips
 let allAreaNames = new Set();       // all known area names
 let filterMode = 'all';            // 'all' = show everything, 'selected' = show only activeAreas
@@ -26,13 +27,32 @@ function loadPrefs() {
 
         const a = localStorage.getItem('pf_area_prefs');
         if (a) areaPrefs = JSON.parse(a);
+
+        const v = localStorage.getItem('pf_votes');
+        if (v) listingVotes = JSON.parse(v);
     } catch (e) { /* ignore corrupt data */ }
 }
 
 function savePrefs() {
     localStorage.setItem('pf_dismissed', JSON.stringify([...dismissedListings]));
     localStorage.setItem('pf_area_prefs', JSON.stringify(areaPrefs));
+    localStorage.setItem('pf_votes', JSON.stringify(listingVotes));
 }
+
+// Export thumbs feedback so it can be fed back into scoring (paste into a file
+// or send to Luke). Static site has no backend, so this is the bridge for now.
+function exportVotes() {
+    const rows = Object.entries(listingVotes).map(([id, vote]) => {
+        const l = DATA.listings.find(x => x.id === id) || {};
+        return { id, vote, address: l.address, area: l.area_name, price: l.price, url: l.url };
+    });
+    const blob = new Blob([JSON.stringify(rows, null, 2)], { type: 'application/json' });
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = 'pf_votes.json';
+    a.click();
+}
+window.exportVotes = exportVotes;
 
 // ── Init ──
 
@@ -287,6 +307,23 @@ function bindEvents() {
             slideshow.querySelectorAll('.slide-dot').forEach((dot, i) => {
                 dot.classList.toggle('active', i === idx);
             });
+            return;
+        }
+
+        // Thumbs feedback
+        const voteBtn = e.target.closest('.card-vote');
+        if (voteBtn) {
+            e.preventDefault();
+            e.stopPropagation();
+            const vid = voteBtn.dataset.id;
+            const v = voteBtn.dataset.vote;
+            if (listingVotes[vid] === v) {
+                delete listingVotes[vid];  // toggle off
+            } else {
+                listingVotes[vid] = v;
+            }
+            savePrefs();
+            render();
             return;
         }
 
@@ -568,6 +605,9 @@ function renderListings(listings) {
             }
 
             const badges = [];
+            if (listing.tier === 'top') {
+                badges.push('<span class="badge badge-tier-top badge-tip" data-tip="One of your top-tier areas — heavily prioritised in ranking.">Top-tier area</span>');
+            }
             if (listing.tenure) {
                 const tenureLabel = listing.tenure.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
                 const tenureTip = listing.tenure.toLowerCase().includes('freehold')
@@ -619,9 +659,14 @@ function renderListings(listings) {
             const linkUrl = listing.url || '#';
             const dismissLabel = isDismissed ? '↩' : '✕';
             const dismissTitle = isDismissed ? 'Restore listing' : 'Dismiss listing';
+            const vote = listingVotes[listing.id];
 
-            html += `<div class="listing-card-v2-wrap ${isDismissed ? 'dismissed' : ''} ${isBoosted ? 'boosted' : ''}">
+            html += `<div class="listing-card-v2-wrap ${isDismissed ? 'dismissed' : ''} ${isBoosted ? 'boosted' : ''} ${vote === 'down' ? 'voted-down' : ''}">
                 <button class="card-dismiss" data-id="${listing.id}" title="${dismissTitle}">${dismissLabel}</button>
+                <div class="card-votes">
+                    <button class="card-vote vote-up ${vote === 'up' ? 'active' : ''}" data-id="${listing.id}" data-vote="up" title="Good match — more like this">👍</button>
+                    <button class="card-vote vote-down ${vote === 'down' ? 'active' : ''}" data-id="${listing.id}" data-vote="down" title="Not for us">👎</button>
+                </div>
                 <a class="listing-card-v2" href="${linkUrl}" target="_blank" rel="noopener">
                     <div class="card-image-wrap">
                         ${imageHtml}
@@ -636,6 +681,7 @@ function renderListings(listings) {
                         <div class="card-meta">${listing.area_name || ''} · ${listing.bedrooms || '?'} bed · ${listing.sqm ? listing.sqm + ' sqm' : ''} · ${listing.property_type || ''}</div>
                         <div class="card-meta"><span class="commute-pill">${commuteMin} min</span></div>
                         <div class="card-badges">${badges.join('')}</div>
+                        ${listing.why ? `<div class="card-why">${listing.why}</div>` : ''}
                         <div class="card-price-row">
                             <span class="card-price">${formatPrice(listing.price)}</span>
                             <span class="card-monthly">${monthlyMortgage ? formatMonthly(monthlyMortgage) : ''}</span>
