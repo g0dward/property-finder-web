@@ -15,6 +15,7 @@ let hideNeedsWork = false;
 let dismissedListings = new Set();  // listing IDs
 let areaPrefs = {};                 // { "Wood Green": "hidden", "Crouch End": "boosted" }
 let listingVotes = {};              // { "<id>": "up" | "down" } — thumbs feedback
+let listingNotes = {};              // { "<id>": "free-text steer note" }
 let activeAreas = new Set();        // selected area chips
 let allAreaNames = new Set();       // all known area names
 let filterMode = 'all';            // 'all' = show everything, 'selected' = show only activeAreas
@@ -31,6 +32,9 @@ function loadPrefs() {
 
         const v = localStorage.getItem('pf_votes');
         if (v) listingVotes = JSON.parse(v);
+
+        const n = localStorage.getItem('pf_notes');
+        if (n) listingNotes = JSON.parse(n);
     } catch (e) { /* ignore corrupt data */ }
 }
 
@@ -38,14 +42,18 @@ function savePrefs() {
     localStorage.setItem('pf_dismissed', JSON.stringify([...dismissedListings]));
     localStorage.setItem('pf_area_prefs', JSON.stringify(areaPrefs));
     localStorage.setItem('pf_votes', JSON.stringify(listingVotes));
+    localStorage.setItem('pf_notes', JSON.stringify(listingNotes));
 }
 
-// Export thumbs feedback so it can be fed back into scoring (paste into a file
-// or send to Luke). Static site has no backend, so this is the bridge for now.
+// Export thumbs feedback + notes so it can be fed back into scoring (paste into
+// a file or send to Luke). Static site has no backend, so this is the bridge.
+// Includes any listing with a vote OR a note.
 function exportVotes() {
-    const rows = Object.entries(listingVotes).map(([id, vote]) => {
+    const ids = new Set([...Object.keys(listingVotes), ...Object.keys(listingNotes)]);
+    const rows = [...ids].map(id => {
         const l = DATA.listings.find(x => x.id === id) || {};
-        return { id, vote, address: l.address, area: l.area_name, price: l.price, url: l.url };
+        return { id, vote: listingVotes[id] || null, note: listingNotes[id] || null,
+                 address: l.address, area: l.area_name, price: l.price, url: l.url };
     });
     const blob = new Blob([JSON.stringify(rows, null, 2)], { type: 'application/json' });
     const a = document.createElement('a');
@@ -280,6 +288,12 @@ function bindEvents() {
         render();
     });
 
+    document.getElementById('export-feedback').addEventListener('click', () => {
+        const count = new Set([...Object.keys(listingVotes), ...Object.keys(listingNotes)]).size;
+        if (!count) { alert('No feedback yet — thumb a few listings and add notes first.'); return; }
+        exportVotes();
+    });
+
     document.getElementById('view-tabs').addEventListener('click', e => {
         const tab = e.target.closest('.tab');
         if (!tab) return;
@@ -352,6 +366,21 @@ function bindEvents() {
         updateStats();
         renderAreaFilters();
         render();
+    });
+
+    // Steer notes — save as you type, no re-render (keeps input focus)
+    document.getElementById('content').addEventListener('input', e => {
+        const noteInput = e.target.closest('.card-note-input');
+        if (!noteInput) return;
+        const nid = noteInput.dataset.id;
+        const val = noteInput.value.trim();
+        if (val) listingNotes[nid] = val;
+        else delete listingNotes[nid];
+        savePrefs();
+    });
+    // Don't let clicks inside the note bubble to the card
+    document.getElementById('content').addEventListener('click', e => {
+        if (e.target.closest('.card-note')) e.stopPropagation();
     });
 }
 
@@ -707,6 +736,7 @@ function renderListings(listings) {
                         </div>
                     </div>
                 </a>
+                ${(vote || listingNotes[listing.id]) ? `<div class="card-note"><input class="card-note-input" type="text" data-id="${listing.id}" placeholder="Why? e.g. 'barber shop below' / 'garden looks great'" value="${(listingNotes[listing.id] || '').replace(/"/g, '&quot;')}"></div>` : ''}
             </div>`;
         }
 
