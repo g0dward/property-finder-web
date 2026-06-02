@@ -1011,3 +1011,15 @@ main {
 /* De-emphasise down-voted cards */
 .listing-card-v2-wrap.voted-down { opacity: 0.5; }
 .listing-card-v2-wrap.voted-down:hover { opacity: 1; }
+
+/* Condition badges (Jun 2026) */
+.badge-needs-work {
+    background: #fff0f0;
+    color: #e03131;
+    font-weight: 600;
+}
+.badge-move-in {
+    background: #e6fcf5;
+    color: #0ca678;
+    font-weight: 600;
+}

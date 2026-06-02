@@ -9,6 +9,7 @@ let sortBy = 'score';
 let viewMode = 'listings';
 let showDismissed = false;
 let insaneMode = false;
+let hideNeedsWork = false;
 
 // Preference state — loaded from localStorage
 let dismissedListings = new Set();  // listing IDs
@@ -272,6 +273,13 @@ function bindEvents() {
         render();
     });
 
+    document.getElementById('hide-needs-work').addEventListener('click', e => {
+        hideNeedsWork = !hideNeedsWork;
+        e.target.classList.toggle('active', hideNeedsWork);
+        e.target.textContent = hideNeedsWork ? 'Needs-work hidden' : 'Hide needs-work';
+        render();
+    });
+
     document.getElementById('view-tabs').addEventListener('click', e => {
         const tab = e.target.closest('.tab');
         if (!tab) return;
@@ -405,6 +413,7 @@ function getVisibleListings() {
         if (!isAreaVisible(l.area_name)) return false;
         if (!showDismissed && dismissedListings.has(l.id)) return false;
         if (l.price && l.price > maxPrice) return false;
+        if (hideNeedsWork && l.condition === 'needs_work') return false;
         return true;
     });
 }
@@ -607,6 +616,11 @@ function renderListings(listings) {
             const badges = [];
             if (listing.tier === 'top') {
                 badges.push('<span class="badge badge-tier-top badge-tip" data-tip="One of your top-tier areas — heavily prioritised in ranking.">Top-tier area</span>');
+            }
+            if (listing.condition === 'needs_work') {
+                badges.push('<span class="badge badge-needs-work badge-tip" data-tip="Description signals modernisation/refurbishment needed — factor refurb cost into the price. Downranked.">Needs work</span>');
+            } else if (listing.condition === 'move_in') {
+                badges.push('<span class="badge badge-move-in badge-tip" data-tip="Description signals recently refurbished / move-in ready.">Move-in ready</span>');
             }
             if (listing.tenure) {
                 const tenureLabel = listing.tenure.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
