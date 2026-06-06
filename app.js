@@ -67,7 +67,8 @@ window.exportVotes = exportVotes;
 
 async function init() {
     try {
-        const resp = await fetch('data.json');
+        // Cache-bust so the daily-regenerated data.json always loads fresh
+        const resp = await fetch(`data.json?v=${Date.now()}`);
         DATA = await resp.json();
     } catch (e) {
         document.getElementById('content').innerHTML = `
