@@ -5,35 +5,14 @@
     <link>https://g0dward.github.io/property-finder-web</link>
     <atom:link href="https://g0dward.github.io/property-finder-web/rss.xml" rel="self" type="application/rss+xml"/>
     <description>New property listings in shortlisted areas: Highgate, Crouch End, Highbury, Stoke Newington, Archway, Belsize Park, Kentish Town, Herne Hill, Haggerston</description>
-    <lastBuildDate>Wed, 10 Jun 2026 09:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 09:02:51 +0000</lastBuildDate>
     <language>en-gb</language>
-    <item>
-      <title>Parliament Hill, London, NW3 - £600,000 (Belsize Park)</title>
-      <link>https://www.onthemarket.com/details/18603000/</link>
-      <guid isPermaLink="false">otm-18603000</guid>
-      <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/18603000/1591105936/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Apartment in Belsize Park&lt;br&gt;£600,000 | None sqm | 27 min to KGX&lt;br&gt;Score: 74/100 | SHARE_OF_FREEHOLD&lt;br&gt;UNDERVALUED: 40% below street median (£995,000)&lt;br&gt;Area 5yr growth: -6%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Belsize Avenue, London, NW3 - £675,000 (Belsize Park)</title>
-      <link>https://www.rightmove.co.uk/properties/89243085#/?channel=RES_BUY</link>
-      <guid isPermaLink="false">rm_89243085</guid>
-      <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/192804ce7/89243085/192804ce73d12c42dac81c2e76c10d40_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Belsize Park&lt;br&gt;£675,000 | 85.4 sqm | 27 min to KGX&lt;br&gt;Score: 73/100 | SHARE_OF_FREEHOLD&lt;br&gt;Garden&lt;br&gt;Fair value vs street median (£625,000)&lt;br&gt;Area 5yr growth: -6%&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Blinco Grove, Cambridge, CB1 - £650,000 (Cambridge)</title>
       <link>https://www.rightmove.co.uk/properties/89521932#/?channel=RES_BUY</link>
       <guid isPermaLink="false">rm_89521932</guid>
       <pubDate>Wed, 10 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4f280b682/89521932/4f280b682a0f0be5387b172da077df28_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced in Cambridge&lt;br&gt;£650,000 | 114.9 sqm | 50 min to KGX&lt;br&gt;Score: 72/100 | FREEHOLD&lt;br&gt;UNDERVALUED: 12% below street median (£740,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>London N15 - £675,000 (Hornsey)</title>
-      <link>https://www.onthemarket.com/details/18677882/</link>
-      <guid isPermaLink="false">otm-18677882</guid>
-      <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/18677882/1593411174/image-0-480x320.png" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced house in Hornsey&lt;br&gt;£675,000 | None sqm | 36 min to KGX&lt;br&gt;Score: 72/100 | FREEHOLD&lt;br&gt;UNDERVALUED: 44% below outcode median (£1,200,000)&lt;br&gt;Area 5yr growth: +14%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4f280b682/89521932/4f280b682a0f0be5387b172da077df28_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced in Cambridge&lt;br&gt;£650,000 | 114.9 sqm | 50 min to KGX&lt;br&gt;Score: 76/100 | FREEHOLD&lt;br&gt;UNDERVALUED: 12% below street median (£740,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Culver Road, St. Albans, Hertfordshire, AL1 - £650,000 (St Albans)</title>
@@ -43,25 +22,11 @@
       <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f36a999e7/89364594/f36a999e772875ee2173f732aec3b2c0_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed End of Terrace in St Albans&lt;br&gt;£650,000 | None sqm | 22 min to KGX&lt;br&gt;Score: 70/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;Fair value vs street median (£700,000)&lt;br&gt;Area 5yr growth: +3%&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Church Walk, London - £750,000 (Stoke Newington)</title>
-      <link>https://www.rightmove.co.uk/properties/89235663#/?channel=RES_BUY</link>
-      <guid isPermaLink="false">rm_89235663</guid>
-      <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/8eb8b5d38/89235663/8eb8b5d3851c118d67b1f02eb3531374_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Semi-Detached in Stoke Newington&lt;br&gt;£750,000 | 70.2 sqm | 35 min to KGX&lt;br&gt;Score: 68/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;Balcony&lt;br&gt;UNDERVALUED: 40% below outcode median (£1,250,000)&lt;br&gt;Area 5yr growth: +0%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ditton Walk, Cambridge - £600,000 (Cambridge)</title>
-      <link>https://www.onthemarket.com/details/19292967/</link>
-      <guid isPermaLink="false">otm-19292967</guid>
-      <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19292967/1608881307/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Detached bungalow in Cambridge&lt;br&gt;£600,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 67/100 | FREEHOLD&lt;br&gt;UNDERVALUED: 13% below outcode median (£690,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Stellman Close, Clapton, London, E5 - £750,000 (Stoke Newington)</title>
       <link>https://www.onthemarket.com/details/19670507/</link>
       <guid isPermaLink="false">otm-19670507</guid>
       <pubDate>Tue, 09 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19670507/1620312567/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed House in Stoke Newington&lt;br&gt;£750,000 | None sqm | 35 min to KGX&lt;br&gt;Score: 66/100 | FREEHOLD&lt;br&gt;UNDERVALUED: 38% below outcode median (£1,200,000)&lt;br&gt;Area 5yr growth: +0%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.onthemarket.com/properties/19670507/1620312567/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed House in Stoke Newington&lt;br&gt;£750,000 | None sqm | 35 min to KGX&lt;br&gt;Score: 66/100 | FREEHOLD&lt;br&gt;UNDERVALUED: 38% below outcode median (£1,200,000)&lt;br&gt;Area 5yr growth: -2%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Perne Road, Cambridge, CB1 - £600,000 (Cambridge)</title>
@@ -78,25 +43,11 @@
       <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4abab08e1/89316741/4abab08e1b6bb6b32fc6c23590734a91_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Maisonette in Crouch End&lt;br&gt;£635,000 | None sqm | 28 min to KGX&lt;br&gt;Score: 64/100 | SHARE_OF_FREEHOLD&lt;br&gt;Garden&lt;br&gt;Fair value vs street median (£605,000)&lt;br&gt;Area 5yr growth: +14%&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Welwyn Hall Gardens, Welwyn, Hertfordshire, AL6 - £650,000 (Welwyn)</title>
-      <link>https://www.onthemarket.com/details/10865885/</link>
-      <guid isPermaLink="false">otm-10865885</guid>
-      <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/10865885/1611674946/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-detached house in Welwyn&lt;br&gt;£650,000 | None sqm | 25 min to KGX&lt;br&gt;Score: 61/100 | FREEHOLD&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cannon Street, St. Albans, AL3 - £650,000 (St Albans)</title>
-      <link>https://www.onthemarket.com/details/19518995/</link>
-      <guid isPermaLink="false">otm-19518995</guid>
-      <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19518995/1615653293/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed End of terrace house in St Albans&lt;br&gt;£650,000 | None sqm | 22 min to KGX&lt;br&gt;Score: 60/100 | FREEHOLD&lt;br&gt;Fair value vs outcode median (£630,000)&lt;br&gt;Area 5yr growth: +3%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Prospect Road, St Albans, AL1 - £600,000 (St Albans)</title>
-      <link>https://www.onthemarket.com/details/19483616/</link>
-      <guid isPermaLink="false">otm-19483616</guid>
-      <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19483616/1614593689/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced house in St Albans&lt;br&gt;£600,000 | None sqm | 22 min to KGX&lt;br&gt;Score: 60/100 | FREEHOLD&lt;br&gt;Fair value vs outcode median (£630,000)&lt;br&gt;Area 5yr growth: +3%&lt;/p&gt;</description>
+      <title>Warner Road, Crouch End N8 - £750,000 (Crouch End)</title>
+      <link>https://www.rightmove.co.uk/properties/89572599#/?channel=RES_BUY</link>
+      <guid isPermaLink="false">rm_89572599</guid>
+      <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/4f71184c2/89572599/4f71184c27acd362ad66eb0780f2ef34_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Apartment in Crouch End&lt;br&gt;£750,000 | 77.9 sqm | 28 min to KGX&lt;br&gt;Score: 63/100 | SHARE_OF_FREEHOLD&lt;br&gt;Garden&lt;br&gt;Above median: 51% above outcode median (£495,225)&lt;br&gt;Area 5yr growth: +14%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wulfstan Way, Cambridge, Cambridgeshire, CB1 - £595,000 (Cambridge)</title>
@@ -104,13 +55,6 @@
       <guid isPermaLink="false">rm_89328282</guid>
       <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
       <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/7188cb500/89328282/7188cb500bed3528ca95860292e33805_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-Detached in Cambridge&lt;br&gt;£595,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 59/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;Fair value vs outcode median (£564,950)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Newsom Place, Hatfield Road, St Albans, AL1 - £600,000 (St Albans)</title>
-      <link>https://www.onthemarket.com/details/19289207/</link>
-      <guid isPermaLink="false">otm-19289207</guid>
-      <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19289207/1618238654/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Mews in St Albans&lt;br&gt;£600,000 | None sqm | 22 min to KGX&lt;br&gt;Score: 58/100 | &lt;br&gt;Fair value vs outcode median (£630,000)&lt;br&gt;Area 5yr growth: +3%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nightingale Lane, London, N8 - £635,000 (Crouch End)</title>
@@ -124,14 +68,14 @@
       <link>https://www.onthemarket.com/details/19653650/</link>
       <guid isPermaLink="false">otm-19653650</guid>
       <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19653650/1619732655/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-detached house in Cambridge&lt;br&gt;£595,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 58/100 | FREEHOLD&lt;br&gt;Above median: 19% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.onthemarket.com/properties/19653650/1619732655/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-detached house in Cambridge&lt;br&gt;£595,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 58/100 | FREEHOLD&lt;br&gt;Above median: 18% above outcode median (£505,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Perne Road, Cambridge, CB1 - £600,000 (Cambridge)</title>
       <link>https://www.onthemarket.com/details/19660223/</link>
       <guid isPermaLink="false">otm-19660223</guid>
       <pubDate>Sat, 06 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19660223/1619844155/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-detached house in Cambridge&lt;br&gt;£600,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 58/100 | FREEHOLD&lt;br&gt;Above median: 20% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.onthemarket.com/properties/19660223/1619844155/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-detached house in Cambridge&lt;br&gt;£600,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 58/100 | FREEHOLD&lt;br&gt;Above median: 19% above outcode median (£505,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blinco Grove, Cambridge, CB1 - £650,000 (Cambridge)</title>
@@ -155,32 +99,11 @@
       <description>&lt;img src="https://media.onthemarket.com/properties/19638833/1619277485/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Terraced house in Cambridge&lt;br&gt;£625,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 56/100 | FREEHOLD&lt;br&gt;Fair value vs street median (£675,603)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Clovelly Road, Crouch End, N8 - £575,000 (Crouch End)</title>
-      <link>https://www.onthemarket.com/details/19683146/</link>
-      <guid isPermaLink="false">otm-19683146</guid>
-      <pubDate>Wed, 10 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19683146/1620640330/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Apartment in Crouch End&lt;br&gt;£575,000 | None sqm | 28 min to KGX&lt;br&gt;Score: 56/100 | &lt;br&gt;Above median: 16% above outcode median (£495,225)&lt;br&gt;Area 5yr growth: +14%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Spenser Road, Herne Hill, SE24 - £650,000 (Herne Hill)</title>
-      <link>https://www.onthemarket.com/details/19673828/</link>
-      <guid isPermaLink="false">otm-19673828</guid>
-      <pubDate>Wed, 10 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19673828/1620372855/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Herne Hill&lt;br&gt;£650,000 | None sqm | 43 min to KGX&lt;br&gt;Score: 56/100 | FREEHOLD&lt;br&gt;Above median: 20% above street median (£542,500)&lt;br&gt;Area 5yr growth: +15%&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Belsize Avenue, London, NW3 - £675,000 (Belsize Park)</title>
       <link>https://www.onthemarket.com/details/19636919/</link>
       <guid isPermaLink="false">otm-19636919</guid>
       <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
       <description>&lt;img src="https://media.onthemarket.com/properties/19636919/1619247913/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Belsize Park&lt;br&gt;£675,000 | None sqm | 27 min to KGX&lt;br&gt;Score: 55/100 | SHARE_OF_FREEHOLD&lt;br&gt;Fair value vs street median (£625,000)&lt;br&gt;Area 5yr growth: -6%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Camp Road, St. Albans, Hertfordshire - £750,000 (St Albans)</title>
-      <link>https://www.onthemarket.com/details/19603558/</link>
-      <guid isPermaLink="false">otm-19603558</guid>
-      <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19603558/1618233295/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-detached house in St Albans&lt;br&gt;£750,000 | None sqm | 22 min to KGX&lt;br&gt;Score: 55/100 | FREEHOLD&lt;br&gt;Above median: 44% above street median (£520,000)&lt;br&gt;Area 5yr growth: +3%&lt;/p&gt;</description>
     </item>
     <item>
       <title>West View Road, St. Albans - £600,000 (St Albans)</title>
@@ -204,25 +127,18 @@
       <description>&lt;img src="https://media.onthemarket.com/properties/19171434/1613989748/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Hackney Central&lt;br&gt;£620,000 | None sqm | 39 min to KGX&lt;br&gt;Score: 53/100 | SHARE_OF_FREEHOLD&lt;br&gt;Fair value vs outcode median (£575,000)&lt;br&gt;Area 5yr growth: +1%&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Unknown - ? (Cambridge)</title>
-      <link>https://www.onthemarket.com</link>
-      <guid isPermaLink="false">otm-1068</guid>
-      <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/agent-products/in-market-ads/10180/64090/dfd878e9-c0d8-452c-bd9f-8085cdf0fe84-480x320.webp" width="400"&gt;&lt;br&gt;&lt;p&gt;None bed  in Cambridge&lt;br&gt;? | None sqm | 50 min to KGX&lt;br&gt;Score: 53/100 | &lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Unknown - ? (Cambridge)</title>
-      <link>https://www.onthemarket.com</link>
-      <guid isPermaLink="false">otm-1189</guid>
-      <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/agent-products/in-market-ads/9792/52725/efe1642c-29d3-4b08-afd2-f84fe8a48707-480x320.webp" width="400"&gt;&lt;br&gt;&lt;p&gt;None bed  in Cambridge&lt;br&gt;? | None sqm | 50 min to KGX&lt;br&gt;Score: 53/100 | &lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
+      <title>Leyland Avenue, St. Albans, Hertfordshire, AL1 - £700,000 (St Albans)</title>
+      <link>https://www.rightmove.co.uk/properties/89530392#/?channel=RES_BUY</link>
+      <guid isPermaLink="false">rm_89530392</guid>
+      <pubDate>Wed, 10 Jun 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/a610288c9/89530392/a610288c9c30790ed83855878ef82f29_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced in St Albans&lt;br&gt;£700,000 | None sqm | 22 min to KGX&lt;br&gt;Score: 53/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;Above median: 11% above outcode median (£630,000)&lt;br&gt;Area 5yr growth: +3%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Church Walk, London - £750,000 (Stoke Newington)</title>
       <link>https://www.onthemarket.com/details/19641527/</link>
       <guid isPermaLink="false">otm-19641527</guid>
       <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19641527/1619322078/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Semi-detached house in Stoke Newington&lt;br&gt;£750,000 | None sqm | 35 min to KGX&lt;br&gt;Score: 53/100 | &lt;br&gt;UNDERVALUED: 38% below outcode median (£1,200,000)&lt;br&gt;Area 5yr growth: +0%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.onthemarket.com/properties/19641527/1619322078/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Semi-detached house in Stoke Newington&lt;br&gt;£750,000 | None sqm | 35 min to KGX&lt;br&gt;Score: 53/100 | &lt;br&gt;UNDERVALUED: 38% below outcode median (£1,200,000)&lt;br&gt;Area 5yr growth: -2%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unknown - ? (Hackney Central)</title>
@@ -243,21 +159,14 @@
       <link>https://www.onthemarket.com/details/17948403/</link>
       <guid isPermaLink="false">otm-17948403</guid>
       <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/17948403/1603168526/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-detached house in Cambridge&lt;br&gt;£700,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 49/100 | FREEHOLD&lt;br&gt;Above median: 40% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.onthemarket.com/properties/17948403/1603168526/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-detached house in Cambridge&lt;br&gt;£700,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 49/100 | FREEHOLD&lt;br&gt;Above median: 39% above outcode median (£505,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Canterbury Street, Cambridge - £625,000 (Cambridge)</title>
       <link>https://www.onthemarket.com/details/18889411/</link>
       <guid isPermaLink="false">otm-18889411</guid>
       <pubDate>Tue, 09 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/18889411/1620363587/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced house in Cambridge&lt;br&gt;£625,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 49/100 | FREEHOLD&lt;br&gt;Above median: 25% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Blemmere at Springstead Village, Off Cherry Hinton Road CB1 - £629,995 (Cambridge)</title>
-      <link>https://www.onthemarket.com/details/19525603/</link>
-      <guid isPermaLink="false">otm-19525603</guid>
-      <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19525603/1615813405/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Detached house in Cambridge&lt;br&gt;£629,995 | None sqm | 50 min to KGX&lt;br&gt;Score: 49/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;Above median: 26% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.onthemarket.com/properties/18889411/1620363587/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced house in Cambridge&lt;br&gt;£625,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 49/100 | FREEHOLD&lt;br&gt;Above median: 24% above outcode median (£505,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dulwich Road, Herne Hill, London, SE24 - £600,000 (Herne Hill)</title>
@@ -267,46 +176,39 @@
       <description>&lt;img src="https://media.onthemarket.com/properties/19659275/1619827453/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Apartment in Herne Hill&lt;br&gt;£600,000 | None sqm | 43 min to KGX&lt;br&gt;Score: 48/100 | SHARE_OF_FREEHOLD&lt;br&gt;Fair value vs street median (£560,000)&lt;br&gt;Area 5yr growth: +15%&lt;/p&gt;</description>
     </item>
     <item>
-      <title>at Marleigh Park, Cambridge CB5 - £679,950 (Cambridge)</title>
-      <link>https://www.onthemarket.com/details/19193605/</link>
-      <guid isPermaLink="false">otm-19193605</guid>
-      <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19193605/1606087899/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Detached house in Cambridge&lt;br&gt;£679,950 | None sqm | 50 min to KGX&lt;br&gt;Score: 48/100 | FREEHOLD&lt;br&gt;Above median: 36% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
+      <title>Mariners Way, Cambridge, CB4 - £595,000 (Cambridge)</title>
+      <link>https://www.onthemarket.com/details/19694193/</link>
+      <guid isPermaLink="false">otm-19694193</guid>
+      <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.onthemarket.com/properties/19694193/1620929936/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Apartment in Cambridge&lt;br&gt;£595,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 47/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 89% above outcode median (£315,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>St Albans AL1 - £730,000 (St Albans)</title>
+      <link>https://www.onthemarket.com/details/18827663/</link>
+      <guid isPermaLink="false">otm-18827663</guid>
+      <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.onthemarket.com/properties/18827663/1614008433/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced house in St Albans&lt;br&gt;£730,000 | None sqm | 22 min to KGX&lt;br&gt;Score: 46/100 | &lt;br&gt;Above median: 16% above outcode median (£630,000)&lt;br&gt;Area 5yr growth: +3%&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pellerin Road, Newington Green, N16, Newington Green, London, N16 - £750,000 (Stoke Newington)</title>
+      <link>https://www.onthemarket.com/details/19695897/</link>
+      <guid isPermaLink="false">otm-19695897</guid>
+      <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.onthemarket.com/properties/19695897/1621049606/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Flat in Stoke Newington&lt;br&gt;£750,000 | None sqm | 35 min to KGX&lt;br&gt;Score: 46/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 48% above outcode median (£506,225)&lt;br&gt;Area 5yr growth: -2%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Manse Road, LONDON N16 - £725,000 (Stoke Newington)</title>
       <link>https://www.rightmove.co.uk/properties/89453301#/?channel=RES_BUY</link>
       <guid isPermaLink="false">rm_89453301</guid>
       <pubDate>Mon, 08 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/335d8bfd4/89453301/335d8bfd4b55524982fc2baec0e9de88_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Stoke Newington&lt;br&gt;£725,000 | None sqm | 35 min to KGX&lt;br&gt;Score: 45/100 | SHARE_OF_FREEHOLD&lt;br&gt;Garden&lt;br&gt;Above median: 69% above street median (£430,000)&lt;br&gt;Area 5yr growth: +0%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Elm Street, Cambridge CB1 - £600,000 (Cambridge)</title>
-      <link>https://www.onthemarket.com/details/19630395/</link>
-      <guid isPermaLink="false">otm-19630395</guid>
-      <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19630395/1619036376/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Terraced house in Cambridge&lt;br&gt;£600,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 44/100 | FREEHOLD&lt;br&gt;Above median: 20% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/335d8bfd4/89453301/335d8bfd4b55524982fc2baec0e9de88_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Stoke Newington&lt;br&gt;£725,000 | None sqm | 35 min to KGX&lt;br&gt;Score: 45/100 | SHARE_OF_FREEHOLD&lt;br&gt;Garden&lt;br&gt;Above median: 69% above street median (£430,000)&lt;br&gt;Area 5yr growth: -2%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Auckland Road, Cambridge CB5 - £575,000 (Cambridge)</title>
       <link>https://www.onthemarket.com/details/19638782/</link>
       <guid isPermaLink="false">otm-19638782</guid>
       <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19638782/1619276389/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Terraced house in Cambridge&lt;br&gt;£575,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 44/100 | FREEHOLD&lt;br&gt;Above median: 15% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Belsize Grove, London, NW3 - £695,000 (Belsize Park)</title>
-      <link>https://www.onthemarket.com/details/19683299/</link>
-      <guid isPermaLink="false">otm-19683299</guid>
-      <pubDate>Wed, 10 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19683299/1620637651/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Apartment in Belsize Park&lt;br&gt;£695,000 | None sqm | 27 min to KGX&lt;br&gt;Score: 44/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 46% above street median (£475,000)&lt;br&gt;Area 5yr growth: -6%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Haverstock Hill, London - £669,950 (Gospel Oak)</title>
-      <link>https://www.onthemarket.com/details/19103889/</link>
-      <guid isPermaLink="false">otm-19103889</guid>
-      <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19103889/1603486883/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Apartment in Gospel Oak&lt;br&gt;£669,950 | None sqm | 32 min to KGX&lt;br&gt;Score: 44/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 20% above outcode median (£560,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.onthemarket.com/properties/19638782/1619276389/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Terraced house in Cambridge&lt;br&gt;£575,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 44/100 | FREEHOLD&lt;br&gt;Above median: 14% above outcode median (£505,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Shepherds Hill, Highgate, London, N6 - £650,000 (Crouch End)</title>
@@ -334,14 +236,14 @@
       <link>https://www.onthemarket.com/details/19672515/</link>
       <guid isPermaLink="false">otm-19672515</guid>
       <pubDate>Tue, 09 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19672515/1620353612/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced house in Cambridge&lt;br&gt;£575,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 44/100 | FREEHOLD&lt;br&gt;Above median: 15% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.onthemarket.com/properties/19672515/1620353612/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced house in Cambridge&lt;br&gt;£575,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 44/100 | FREEHOLD&lt;br&gt;Above median: 14% above outcode median (£505,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Orchards, Fulbourn, Cambridge, Cambridgeshire, CB21 - £594,750 (Cambridge)</title>
       <link>https://www.onthemarket.com/details/18008864/</link>
       <guid isPermaLink="false">otm-18008864</guid>
       <pubDate>Wed, 10 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/18008864/1599952337/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Detached house in Cambridge&lt;br&gt;£594,750 | None sqm | 50 min to KGX&lt;br&gt;Score: 44/100 | FREEHOLD&lt;br&gt;Above median: 19% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.onthemarket.com/properties/18008864/1599952337/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Detached house in Cambridge&lt;br&gt;£594,750 | None sqm | 50 min to KGX&lt;br&gt;Score: 44/100 | FREEHOLD&lt;br&gt;Above median: 18% above outcode median (£505,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Primrose Gardens, London, NW3 - £750,000 (Belsize Park)</title>
@@ -355,7 +257,7 @@
       <link>https://www.onthemarket.com/details/19674568/</link>
       <guid isPermaLink="false">otm-19674568</guid>
       <pubDate>Tue, 09 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19674568/1620383833/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Stoke Newington&lt;br&gt;£725,000 | None sqm | 35 min to KGX&lt;br&gt;Score: 42/100 | SHARE_OF_FREEHOLD&lt;br&gt;Garden&lt;br&gt;Above median: 69% above street median (£430,000)&lt;br&gt;Area 5yr growth: +0%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.onthemarket.com/properties/19674568/1620383833/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Stoke Newington&lt;br&gt;£725,000 | None sqm | 35 min to KGX&lt;br&gt;Score: 42/100 | SHARE_OF_FREEHOLD&lt;br&gt;Garden&lt;br&gt;Above median: 69% above street median (£430,000)&lt;br&gt;Area 5yr growth: -2%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chalk Farm NW3 - £700,000 (Gospel Oak)</title>
@@ -365,32 +267,60 @@
       <description>&lt;img src="https://media.onthemarket.com/properties/17954387/1576747524/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Gospel Oak&lt;br&gt;£700,000 | None sqm | 32 min to KGX&lt;br&gt;Score: 41/100 | &lt;br&gt;Above median: 25% above outcode median (£560,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Clovelly Road, Crouch End, N8 - £575,000 (Crouch End)</title>
+      <link>https://www.onthemarket.com/details/19683146/</link>
+      <guid isPermaLink="false">otm-19683146</guid>
+      <pubDate>Wed, 10 Jun 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.onthemarket.com/properties/19683146/1620640330/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Apartment in Crouch End&lt;br&gt;£575,000 | None sqm | 28 min to KGX&lt;br&gt;Score: 41/100 | &lt;br&gt;Above median: 16% above outcode median (£495,225)&lt;br&gt;Area 5yr growth: +14%&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Belsize Grove, London, NW3 - £695,000 (Belsize Park)</title>
+      <link>https://www.onthemarket.com/details/19683299/</link>
+      <guid isPermaLink="false">otm-19683299</guid>
+      <pubDate>Wed, 10 Jun 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.onthemarket.com/properties/19683299/1620637651/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Apartment in Belsize Park&lt;br&gt;£695,000 | None sqm | 27 min to KGX&lt;br&gt;Score: 40/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 46% above street median (£475,000)&lt;br&gt;Area 5yr growth: -6%&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Brentford at Franklin Gardens at Darwin Green Cambridge Road, Cambridge CB3 - £580,000 (Cambridge)</title>
       <link>https://www.onthemarket.com/details/18068990/</link>
       <guid isPermaLink="false">otm-18068990</guid>
       <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/18068990/1616314858/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Detached house in Cambridge&lt;br&gt;£580,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 40/100 | &lt;br&gt;Above median: 16% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.onthemarket.com/properties/18068990/1616314858/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Detached house in Cambridge&lt;br&gt;£580,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 40/100 | &lt;br&gt;Above median: 15% above outcode median (£505,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Brentford at Franklin Gardens at Darwin Green Cambridge Road, Cambridge CB3 - £580,000 (Cambridge)</title>
       <link>https://www.onthemarket.com/details/19001625/</link>
       <guid isPermaLink="false">otm-19001625</guid>
       <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19001625/1613613153/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Detached house in Cambridge&lt;br&gt;£580,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 40/100 | &lt;br&gt;Above median: 16% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.onthemarket.com/properties/19001625/1613613153/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Detached house in Cambridge&lt;br&gt;£580,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 40/100 | &lt;br&gt;Above median: 15% above outcode median (£505,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Hadley at DWH at Darwin Green Darwin Green, Huntingdon Road, Cambridge CB3 - £615,995 (Cambridge)</title>
       <link>https://www.onthemarket.com/details/19103825/</link>
       <guid isPermaLink="false">otm-19103825</guid>
       <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19103825/1612732723/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Detached house in Cambridge&lt;br&gt;£615,995 | None sqm | 50 min to KGX&lt;br&gt;Score: 40/100 | &lt;br&gt;Above median: 23% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.onthemarket.com/properties/19103825/1612732723/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Detached house in Cambridge&lt;br&gt;£615,995 | None sqm | 50 min to KGX&lt;br&gt;Score: 40/100 | &lt;br&gt;Above median: 22% above outcode median (£505,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stambourne Special at Darwin Green Darwin Green, Huntingdon Road, Cambridge CB3 - £621,995 (Cambridge)</title>
       <link>https://www.onthemarket.com/details/19103826/</link>
       <guid isPermaLink="false">otm-19103826</guid>
       <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19103826/1614100943/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-detached house in Cambridge&lt;br&gt;£621,995 | None sqm | 50 min to KGX&lt;br&gt;Score: 40/100 | &lt;br&gt;Above median: 24% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.onthemarket.com/properties/19103826/1614100943/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-detached house in Cambridge&lt;br&gt;£621,995 | None sqm | 50 min to KGX&lt;br&gt;Score: 40/100 | &lt;br&gt;Above median: 23% above outcode median (£505,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3 Bed Block A - Apartment 4 at Copper Yard Hackney Wick, Copper Yard Hackney Wick, 88 Whitepost Lane E9 - £740,000 (Hackney Central)</title>
+      <link>https://www.onthemarket.com/details/19353337/</link>
+      <guid isPermaLink="false">otm-19353337</guid>
+      <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.onthemarket.com/properties/19353337/1610792061/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Apartment in Hackney Central&lt;br&gt;£740,000 | None sqm | 39 min to KGX&lt;br&gt;Score: 40/100 | &lt;br&gt;Above median: 29% above outcode median (£575,000)&lt;br&gt;Area 5yr growth: +1%&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spenser Road, Herne Hill, SE24 - £650,000 (Herne Hill)</title>
+      <link>https://www.onthemarket.com/details/19673828/</link>
+      <guid isPermaLink="false">otm-19673828</guid>
+      <pubDate>Wed, 10 Jun 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.onthemarket.com/properties/19673828/1620372855/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Herne Hill&lt;br&gt;£650,000 | None sqm | 43 min to KGX&lt;br&gt;Score: 37/100 | FREEHOLD&lt;br&gt;Above median: 20% above street median (£542,500)&lt;br&gt;Area 5yr growth: +15%&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
