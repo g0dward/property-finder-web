@@ -5,7 +5,7 @@
     <link>https://g0dward.github.io/property-finder-web</link>
     <atom:link href="https://g0dward.github.io/property-finder-web/rss.xml" rel="self" type="application/rss+xml"/>
     <description>New property listings in shortlisted areas: Highgate, Crouch End, Highbury, Stoke Newington, Archway, Belsize Park, Kentish Town, Herne Hill, Haggerston</description>
-    <lastBuildDate>Mon, 22 Jun 2026 09:04:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 09:02:50 +0000</lastBuildDate>
     <language>en-gb</language>
     <item>
       <title>West Bank, London, N16 - £600,000 (Stoke Newington)</title>
@@ -13,13 +13,6 @@
       <guid isPermaLink="false">rm_89773419</guid>
       <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
       <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/f5991a311/89773419/f5991a311d88e65791b804924c245f67_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Stoke Newington&lt;br&gt;£600,000 | None sqm | 35 min to KGX&lt;br&gt;Score: 84/100 | SHARE_OF_FREEHOLD&lt;br&gt;Balcony&lt;br&gt;UNDERVALUED: 28% below street median (£835,000)&lt;br&gt;Area 5yr growth: -2%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cavendish Road, St Albans, AL1 - £630,000 (St Albans)</title>
-      <link>https://www.rightmove.co.uk/properties/89730795#/?channel=RES_BUY</link>
-      <guid isPermaLink="false">rm_89730795</guid>
-      <pubDate>Mon, 15 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/67384a7b0/89730795/67384a7b0d9c0693cf02c75d98a1b787_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced in St Albans&lt;br&gt;£630,000 | 82.7 sqm | 22 min to KGX&lt;br&gt;Score: 75/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;Fair value vs street median (£665,000)&lt;br&gt;Area 5yr growth: +2%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Shirlock Road, Hampstead Heath, London, NW3 - £685,000 (Belsize Park)</title>
@@ -36,6 +29,14 @@
       <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/1b8d5943f/89865918/1b8d5943f86e4d2288a8f12989070516_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed End of Terrace in St Albans&lt;br&gt;£725,000 | 120.9 sqm | 22 min to KGX&lt;br&gt;Score: 71/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;Above median: 14% above outcode median (£635,000)&lt;br&gt;Area 5yr growth: +2%&lt;/p&gt;</description>
     </item>
     <item>
+      <title>St Johns Grove, 
+Upper Holloway, N19 - £650,000 (Archway)</title>
+      <link>https://www.rightmove.co.uk/properties/89976624#/?channel=RES_BUY</link>
+      <guid isPermaLink="false">rm_89976624</guid>
+      <pubDate>Mon, 22 Jun 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/5d3e9fe2d/89976624/5d3e9fe2d127a78b75dc6ea1f1ba6dce_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Terraced in Archway&lt;br&gt;£650,000 | None sqm | 23 min to KGX&lt;br&gt;Score: 70/100 | SHARE_OF_FREEHOLD&lt;br&gt;UNDERVALUED: 41% below outcode median (£1,109,000)&lt;br&gt;Area 5yr growth: +8%&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Upper Culver Road, St. Albans, Hertfordshire, AL1 - £575,000 (St Albans)</title>
       <link>https://www.rightmove.co.uk/properties/89849175#/?channel=RES_BUY</link>
       <guid isPermaLink="false">rm_89849175</guid>
@@ -48,13 +49,6 @@
       <guid isPermaLink="false">otm-19724555</guid>
       <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
       <description>&lt;img src="https://media.onthemarket.com/properties/19724555/1621976427/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced house in St Albans&lt;br&gt;£630,000 | None sqm | 22 min to KGX&lt;br&gt;Score: 63/100 | FREEHOLD&lt;br&gt;Fair value vs street median (£665,000)&lt;br&gt;Area 5yr growth: +2%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Church Walk, Stoke Newington, London, N16 - £725,000 (Stoke Newington)</title>
-      <link>https://www.onthemarket.com/details/19119735/</link>
-      <guid isPermaLink="false">otm-19119735</guid>
-      <pubDate>Mon, 15 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19119735/1614379511/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed House in Stoke Newington&lt;br&gt;£725,000 | None sqm | 35 min to KGX&lt;br&gt;Score: 62/100 | FREEHOLD&lt;br&gt;UNDERVALUED: 40% below outcode median (£1,210,000)&lt;br&gt;Area 5yr growth: -2%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sedgwick Street, Cambridge CB1 - £575,000 (Cambridge)</title>
@@ -99,18 +93,25 @@
       <description>&lt;img src="https://media.onthemarket.com/properties/19719176/1621874849/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-detached house in Cambridge&lt;br&gt;£599,950 | None sqm | 50 min to KGX&lt;br&gt;Score: 58/100 | FREEHOLD&lt;br&gt;Above median: 19% above outcode median (£505,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Hartington Grove, Cambridge CB1 - £695,000 (Cambridge)</title>
+      <link>https://www.onthemarket.com/details/19772584/</link>
+      <guid isPermaLink="false">otm-19772584</guid>
+      <pubDate>Tue, 23 Jun 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.onthemarket.com/properties/19772584/1623478505/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-detached house in Cambridge&lt;br&gt;£695,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 58/100 | FREEHOLD&lt;br&gt;UNDERVALUED: 24% below street median (£920,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cricketfield Road, London, E5 - £575,000 (Hackney Central)</title>
+      <link>https://www.onthemarket.com/details/19774832/</link>
+      <guid isPermaLink="false">otm-19774832</guid>
+      <pubDate>Tue, 23 Jun 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.onthemarket.com/properties/19774832/1623526648/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Hackney Central&lt;br&gt;£575,000 | None sqm | 39 min to KGX&lt;br&gt;Score: 58/100 | SHARE_OF_FREEHOLD&lt;br&gt;Fair value vs outcode median (£572,500)&lt;br&gt;Area 5yr growth: +0%&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Shirlock Road, Hampstead Heath, London, NW3 - £685,000 (Belsize Park)</title>
       <link>https://www.onthemarket.com/details/19764864/</link>
       <guid isPermaLink="false">otm-19764864</guid>
       <pubDate>Sun, 21 Jun 2026 08:00:00 +0000</pubDate>
       <description>&lt;img src="https://media.onthemarket.com/properties/19764864/1623170625/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Flat in Belsize Park&lt;br&gt;£685,000 | None sqm | 27 min to KGX&lt;br&gt;Score: 57/100 | SHARE_OF_FREEHOLD&lt;br&gt;Fair value vs street median (£695,000)&lt;br&gt;Area 5yr growth: -6%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pageant Road, St. Albans - £725,000 (St Albans)</title>
-      <link>https://www.rightmove.co.uk/properties/89694885#/?channel=RES_BUY</link>
-      <guid isPermaLink="false">rm_89694885</guid>
-      <pubDate>Mon, 15 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/575826320/89694885/5758263204703ac5c62d6e6efff429d8_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced in St Albans&lt;br&gt;£725,000 | 76.8 sqm | 22 min to KGX&lt;br&gt;Score: 56/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;Fair value vs street median (£660,000)&lt;br&gt;Area 5yr growth: +2%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Church Street, Welwyn - £730,000 (Welwyn)</title>
@@ -124,7 +125,7 @@
       <link>https://www.onthemarket.com/details/19470096/</link>
       <guid isPermaLink="false">otm-19470096</guid>
       <pubDate>Fri, 19 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19470096/1622715981/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Maisonette in Hackney Central&lt;br&gt;£750,000 | None sqm | 39 min to KGX&lt;br&gt;Score: 50/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 31% above outcode median (£571,000)&lt;br&gt;Area 5yr growth: -0%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.onthemarket.com/properties/19470096/1622715981/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Maisonette in Hackney Central&lt;br&gt;£750,000 | None sqm | 39 min to KGX&lt;br&gt;Score: 50/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 31% above outcode median (£572,500)&lt;br&gt;Area 5yr growth: +0%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bosworth Road, Cambridge CB1 - £635,000 (Cambridge)</title>
@@ -169,18 +170,11 @@
       <description>&lt;img src="https://media.onthemarket.com/properties/19756617/1622961664/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-detached house in Cambridge&lt;br&gt;£590,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 44/100 | FREEHOLD&lt;br&gt;Above median: 17% above outcode median (£505,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Netherhall Gardens, Worts Causeway, Cambridge, Cambridgeshire, CB1 - £750,000 (Cambridge)</title>
-      <link>https://www.onthemarket.com/details/19350967/</link>
-      <guid isPermaLink="false">otm-19350967</guid>
-      <pubDate>Mon, 15 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19350967/1610674901/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed End of terrace house in Cambridge&lt;br&gt;£750,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 40/100 | &lt;br&gt;Above median: 48% above outcode median (£505,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Mare Street, London, E8 - £575,000 (Hackney Central)</title>
       <link>https://www.onthemarket.com/details/19736228/</link>
       <guid isPermaLink="false">otm-19736228</guid>
       <pubDate>Wed, 17 Jun 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/19736228/1622346675/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Hackney Central&lt;br&gt;£575,000 | None sqm | 39 min to KGX&lt;br&gt;Score: 36/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 42% above street median (£405,000)&lt;br&gt;Area 5yr growth: -0%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.onthemarket.com/properties/19736228/1622346675/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Hackney Central&lt;br&gt;£575,000 | None sqm | 39 min to KGX&lt;br&gt;Score: 36/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 42% above street median (£405,000)&lt;br&gt;Area 5yr growth: +0%&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
