@@ -5,7 +5,7 @@
     <link>https://g0dward.github.io/property-finder-web</link>
     <atom:link href="https://g0dward.github.io/property-finder-web/rss.xml" rel="self" type="application/rss+xml"/>
     <description>New property listings in shortlisted areas: Highgate, Crouch End, Highbury, Stoke Newington, Archway, Belsize Park, Kentish Town, Herne Hill, Haggerston</description>
-    <lastBuildDate>Thu, 10 Sep 2026 09:02:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 09:02:55 +0000</lastBuildDate>
     <language>en-gb</language>
     <item>
       <title>Upper Heath Road, St. Albans, Hertfordshire, AL1 - £625,000 (St Albans)</title>
@@ -13,13 +13,6 @@
       <guid isPermaLink="false">rm_92893200</guid>
       <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
       <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/6932e58f1/92893200/6932e58f1b58ebba6da8e4f2fdf1d429_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Terraced in St Albans&lt;br&gt;£625,000 | None sqm | 22 min to KGX&lt;br&gt;Score: 84/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;UNDERVALUED: 21% below street median (£795,000)&lt;br&gt;Area 5yr growth: -2%&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Fleet Road, London, NW3 - £700,000 (Belsize Park)</title>
-      <link>https://www.rightmove.co.uk/properties/92673993#/?channel=RES_BUY</link>
-      <guid isPermaLink="false">rm_92673993</guid>
-      <pubDate>Thu, 03 Sep 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/c7cb2c82b/92673993/c7cb2c82b58d0af70053be97d524302b_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Maisonette in Belsize Park&lt;br&gt;£700,000 | 86.0 sqm | 27 min to KGX&lt;br&gt;Score: 76/100 | SHARE_OF_FREEHOLD&lt;br&gt;UNDERVALUED: 18% below outcode median (£855,000)&lt;br&gt;Area 5yr growth: -8%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Winchester Road, London NW3 - £650,000 (Belsize Park)</title>
@@ -36,18 +29,18 @@
       <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/e78380fee/92739081/e78380feeca157263dba877c56c6e504_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced in St Albans&lt;br&gt;£750,000 | 114.0 sqm | 22 min to KGX&lt;br&gt;Score: 70/100 | FREEHOLD&lt;br&gt;Garden&lt;br&gt;Above median: 20% above outcode median (£625,000)&lt;br&gt;Area 5yr growth: -2%&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Lavington Close, London, E9 - £650,000 (Hackney Central)</title>
-      <link>https://www.onthemarket.com/details/20298259/</link>
-      <guid isPermaLink="false">otm-20298259</guid>
-      <pubDate>Thu, 10 Sep 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/20298259/1642913256/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced house in Hackney Central&lt;br&gt;£650,000 | None sqm | 39 min to KGX&lt;br&gt;Score: 70/100 | FREEHOLD&lt;br&gt;UNDERVALUED: 32% below outcode median (£955,000)&lt;br&gt;Area 5yr growth: +0%&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Glenmore Road, London, NW3 - £675,000 (Belsize Park)</title>
       <link>https://www.onthemarket.com/details/20251538/</link>
       <guid isPermaLink="false">otm-20251538</guid>
       <pubDate>Fri, 04 Sep 2026 08:00:00 +0000</pubDate>
       <description>&lt;img src="https://media.onthemarket.com/properties/20251538/1641393147/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Apartment in Belsize Park&lt;br&gt;£675,000 | None sqm | 27 min to KGX&lt;br&gt;Score: 66/100 | SHARE_OF_FREEHOLD&lt;br&gt;UNDERVALUED: 21% below outcode median (£855,000)&lt;br&gt;Area 5yr growth: -8%&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lavington Close, London, E9 - £650,000 (Hackney Central)</title>
+      <link>https://www.onthemarket.com/details/20298259/</link>
+      <guid isPermaLink="false">otm-20298259</guid>
+      <pubDate>Thu, 10 Sep 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.onthemarket.com/properties/20298259/1642913256/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced house in Hackney Central&lt;br&gt;£650,000 | None sqm | 39 min to KGX&lt;br&gt;Score: 66/100 | FREEHOLD&lt;br&gt;UNDERVALUED: 32% below outcode median (£955,000)&lt;br&gt;Area 5yr growth: +0%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stanford Mews, London E8 - £750,000 (Hackney Central)</title>
@@ -127,6 +120,20 @@
       <description>&lt;img src="https://media.onthemarket.com/properties/20302670/1643011135/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-detached house in Cambridge&lt;br&gt;£650,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 58/100 | FREEHOLD&lt;br&gt;Above median: 30% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Blinco Grove, Cambridge, CB1 - £750,000 (Cambridge)</title>
+      <link>https://www.rightmove.co.uk/properties/93018789#/?channel=RES_BUY</link>
+      <guid isPermaLink="false">rm_93018789</guid>
+      <pubDate>Fri, 11 Sep 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/380abbfcf/93018789/380abbfcf5de76eac3d778a49a10a331_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced in Cambridge&lt;br&gt;£750,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 58/100 | FREEHOLD&lt;br&gt;Fair value vs street median (£740,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blinco Grove, Cambridge, CB1 - £750,000 (Cambridge)</title>
+      <link>https://www.onthemarket.com/details/20314324/</link>
+      <guid isPermaLink="false">otm-20314324</guid>
+      <pubDate>Fri, 11 Sep 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.onthemarket.com/properties/20314324/1643494512/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced house in Cambridge&lt;br&gt;£750,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 58/100 | FREEHOLD&lt;br&gt;Fair value vs street median (£740,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Bardwell Road, St. Albans, Hertfordshire, AL1 - £625,000 (St Albans)</title>
       <link>https://www.onthemarket.com/details/20287726/</link>
       <guid isPermaLink="false">otm-20287726</guid>
@@ -155,13 +162,6 @@
       <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/ea5ca461f/92956182/ea5ca461f4b8a14772c5d0726a048a3c_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Archway&lt;br&gt;£700,000 | None sqm | 23 min to KGX&lt;br&gt;Score: 50/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 40% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Leys Avenue, Cambridge, Cambridgeshire, CB4 - £725,000 (Cambridge)</title>
-      <link>https://www.onthemarket.com/details/20303242/</link>
-      <guid isPermaLink="false">otm-20303242</guid>
-      <pubDate>Thu, 10 Sep 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/20303242/1643028424/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-detached house in Cambridge&lt;br&gt;£725,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 49/100 | &lt;br&gt;Garden&lt;br&gt;Above median: 45% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>at Hartmere, Cambridge CB2 - £749,950 (Cambridge)</title>
       <link>https://www.onthemarket.com/details/20271588/</link>
       <guid isPermaLink="false">otm-20271588</guid>
@@ -173,14 +173,21 @@
       <link>https://www.onthemarket.com/details/20279486/</link>
       <guid isPermaLink="false">otm-20279486</guid>
       <pubDate>Tue, 08 Sep 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/20279486/1642371724/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Crouch End&lt;br&gt;£725,000 | None sqm | 28 min to KGX&lt;br&gt;Score: 48/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 46% above outcode median (£495,225)&lt;br&gt;Area 5yr growth: +4%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.onthemarket.com/properties/20279486/1642371724/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Crouch End&lt;br&gt;£725,000 | None sqm | 28 min to KGX&lt;br&gt;Score: 48/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 46% above outcode median (£495,000)&lt;br&gt;Area 5yr growth: +4%&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Royal Way, Trumpington CB2 - £590,000 (Cambridge)</title>
+      <link>https://www.onthemarket.com/details/20309420/</link>
+      <guid isPermaLink="false">otm-20309420</guid>
+      <pubDate>Fri, 11 Sep 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.onthemarket.com/properties/20309420/1643258999/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Detached house in Cambridge&lt;br&gt;£590,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 48/100 | FREEHOLD&lt;br&gt;Above median: 18% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ridge Road, London, N8 - £685,000 (Crouch End)</title>
       <link>https://www.rightmove.co.uk/properties/92952531#/?channel=RES_BUY</link>
       <guid isPermaLink="false">rm_92952531</guid>
       <pubDate>Wed, 09 Sep 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3c3728d0f/92952531/3c3728d0fe7f45a7e49bc5e879fcf949_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Flat in Crouch End&lt;br&gt;£685,000 | 72.3 sqm | 28 min to KGX&lt;br&gt;Score: 47/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 38% above outcode median (£495,225)&lt;br&gt;Area 5yr growth: +4%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.rightmove.co.uk:443/dir/crop/10:9-16:9/property-photo/3c3728d0f/92952531/3c3728d0fe7f45a7e49bc5e879fcf949_max_476x317.jpeg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Flat in Crouch End&lt;br&gt;£685,000 | 72.3 sqm | 28 min to KGX&lt;br&gt;Score: 47/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 38% above outcode median (£495,000)&lt;br&gt;Area 5yr growth: +4%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Poets Road, London, N5 - £750,000 (Stoke Newington)</title>
@@ -190,18 +197,32 @@
       <description>&lt;img src="https://media.onthemarket.com/properties/20265671/1641856668/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Apartment in Stoke Newington&lt;br&gt;£750,000 | None sqm | 35 min to KGX&lt;br&gt;Score: 47/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 46% above outcode median (£515,000)&lt;br&gt;Area 5yr growth: -8%&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Hanley Road, Stroud Green, London, N4 - £575,000 (Crouch End)</title>
-      <link>https://www.onthemarket.com/details/20302487/</link>
-      <guid isPermaLink="false">otm-20302487</guid>
+      <title>Mount View Road, London, N4 - £595,000 (Crouch End)</title>
+      <link>https://www.onthemarket.com/details/20312698/</link>
+      <guid isPermaLink="false">otm-20312698</guid>
+      <pubDate>Fri, 11 Sep 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.onthemarket.com/properties/20312698/1643370494/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Apartment in Crouch End&lt;br&gt;£595,000 | None sqm | 28 min to KGX&lt;br&gt;Score: 47/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 20% above outcode median (£495,000)&lt;br&gt;Area 5yr growth: +4%&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cambridge CB2 - £600,000 (Cambridge)</title>
+      <link>https://www.onthemarket.com/details/20313864/</link>
+      <guid isPermaLink="false">otm-20313864</guid>
+      <pubDate>Fri, 11 Sep 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.onthemarket.com/properties/20313864/1643477703/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Terraced house in Cambridge&lt;br&gt;£600,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 47/100 | FREEHOLD&lt;br&gt;Above median: 20% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Leys Avenue, Cambridge, Cambridgeshire, CB4 - £725,000 (Cambridge)</title>
+      <link>https://www.onthemarket.com/details/20303242/</link>
+      <guid isPermaLink="false">otm-20303242</guid>
       <pubDate>Thu, 10 Sep 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/20302487/1643008822/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Crouch End&lt;br&gt;£575,000 | None sqm | 28 min to KGX&lt;br&gt;Score: 47/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 16% above outcode median (£495,225)&lt;br&gt;Area 5yr growth: +4%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.onthemarket.com/properties/20303242/1643028424/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;3 bed Semi-detached house in Cambridge&lt;br&gt;£725,000 | None sqm | 50 min to KGX&lt;br&gt;Score: 46/100 | &lt;br&gt;Garden&lt;br&gt;Above median: 45% above outcode median (£500,000)&lt;br&gt;Area 5yr growth: +7%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mount View Road, N4 - £600,000 (Crouch End)</title>
       <link>https://www.onthemarket.com/details/20248638/</link>
       <guid isPermaLink="false">otm-20248638</guid>
       <pubDate>Fri, 04 Sep 2026 08:00:00 +0000</pubDate>
-      <description>&lt;img src="https://media.onthemarket.com/properties/20248638/1641335909/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Crouch End&lt;br&gt;£600,000 | None sqm | 28 min to KGX&lt;br&gt;Score: 44/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 21% above outcode median (£495,225)&lt;br&gt;Area 5yr growth: +4%&lt;/p&gt;</description>
+      <description>&lt;img src="https://media.onthemarket.com/properties/20248638/1641335909/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Crouch End&lt;br&gt;£600,000 | None sqm | 28 min to KGX&lt;br&gt;Score: 44/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 21% above outcode median (£495,000)&lt;br&gt;Area 5yr growth: +4%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cleveleys Road, Clapton, E5, Clapton, London, E5 - £675,000 (Hackney Central)</title>
@@ -209,6 +230,13 @@
       <guid isPermaLink="false">otm-20253820</guid>
       <pubDate>Fri, 04 Sep 2026 08:00:00 +0000</pubDate>
       <description>&lt;img src="https://media.onthemarket.com/properties/20253820/1641444261/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Hackney Central&lt;br&gt;£675,000 | None sqm | 39 min to KGX&lt;br&gt;Score: 44/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 20% above outcode median (£560,000)&lt;br&gt;Area 5yr growth: +0%&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hanley Road, Stroud Green, London, N4 - £575,000 (Crouch End)</title>
+      <link>https://www.onthemarket.com/details/20302487/</link>
+      <guid isPermaLink="false">otm-20302487</guid>
+      <pubDate>Thu, 10 Sep 2026 08:00:00 +0000</pubDate>
+      <description>&lt;img src="https://media.onthemarket.com/properties/20302487/1643008822/image-0-480x320.jpg" width="400"&gt;&lt;br&gt;&lt;p&gt;2 bed Flat in Crouch End&lt;br&gt;£575,000 | None sqm | 28 min to KGX&lt;br&gt;Score: 44/100 | SHARE_OF_FREEHOLD&lt;br&gt;Above median: 16% above outcode median (£495,000)&lt;br&gt;Area 5yr growth: +4%&lt;/p&gt;</description>
     </item>
     <item>
       <title>Trumpington, Cambridge CB2 - £670,000 (Cambridge)</title>
